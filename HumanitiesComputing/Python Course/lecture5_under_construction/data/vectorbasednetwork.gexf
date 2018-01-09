@@ -1,0 +1,3343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>31/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="communist" label="communist" />
+      <node id="sort" label="sort" />
+      <node id="league" label="league" />
+      <node id="continent" label="continent" />
+      <node id="central" label="central" />
+      <node id="workingmen" label="workingmen" />
+      <node id="manifesto" label="manifesto" />
+      <node id="platform" label="platform" />
+      <node id="millions" label="millions" />
+      <node id="siberia" label="siberia" />
+      <node id="california" label="california" />
+      <node id="association" label="association" />
+      <node id="international" label="international" />
+      <node id="body" label="body" />
+      <node id="german" label="german" />
+      <node id="languages" label="languages" />
+      <node id="french" label="french" />
+      <node id="italian" label="italian" />
+      <node id="flemish" label="flemish" />
+      <node id="danish" label="danish" />
+      <node id="beginning" label="beginning" />
+      <node id="congress" label="congress" />
+      <node id="notion" label="notion" />
+      <node id="london" label="london" />
+      <node id="january" label="january" />
+      <node id="manuscript" label="manuscript" />
+      <node id="printer" label="printer" />
+      <node id="julian" label="julian" />
+      <node id="disciple" label="disciple" />
+      <node id="november" label="november" />
+      <node id="imprisonment" label="imprisonment" />
+      <node id="october" label="october" />
+      <node id="trial" label="trial" />
+      <node id="till" label="till" />
+      <node id="prisoners" label="prisoners" />
+      <node id="marx" label="marx" />
+      <node id="karl" label="karl" />
+      <node id="daughter" label="daughter" />
+      <node id="eleanor" label="eleanor" />
+      <node id="engels" label="engels" />
+      <node id="publication" label="publication" />
+      <node id="theoretical" label="theoretical" />
+      <node id="notes" label="notes" />
+      <node id="frederick" label="frederick" />
+      <node id="florence" label="florence" />
+      <node id="wischnewetzky" label="wischnewetzky" />
+      <node id="programme" label="programme" />
+      <node id="party" label="party" />
+      <node id="parliament" label="parliament" />
+      <node id="drawn" label="drawn" />
+      <node id="industries" label="industries" />
+      <node id="remotest" label="remotest" />
+      <node id="zones" label="zones" />
+      <node id="weeks" label="weeks" />
+      <node id="lassalle" label="lassalle" />
+      <node id="february" label="february" />
+      <node id="revolution" label="revolution" />
+      <node id="translation" label="translation" />
+      <node id="version" label="version" />
+      <node id="socialdemokratisk" label="socialdemokratisk" />
+      <node id="reprints" label="reprints" />
+      <node id="paris" label="paris" />
+      <node id="defeat" label="defeat" />
+      <node id="sections" label="sections" />
+      <node id="one" label="one" />
+      <node id="socialiste" label="socialiste" />
+      <node id="madrid" label="madrid" />
+      <node id="insurrection" label="insurrection" />
+      <node id="june" label="june" />
+      <node id="edition" label="edition" />
+      <node id="cracow" label="cracow" />
+      <node id="english" label="english" />
+      <node id="proudhonism" label="proudhonism" />
+      <node id="combinations" label="combinations" />
+      <node id="miss" label="miss" />
+      <node id="helen" label="helen" />
+      <node id="macfarlane" label="macfarlane" />
+      <node id="george" label="george" />
+      <node id="harney" label="harney" />
+      <node id="republican" label="republican" />
+      <node id="heroic" label="heroic" />
+      <node id="vera" label="vera" />
+      <node id="copenhagen" label="copenhagen" />
+      <node id="battle" label="battle" />
+      <node id="supremacy" label="supremacy" />
+      <node id="background" label="background" />
+      <node id="european" label="european" />
+      <node id="aspirations" label="aspirations" />
+      <node id="oblivion" label="oblivion" />
+      <node id="thenceforth" label="thenceforth" />
+      <node id="agitation" label="agitation" />
+      <node id="contest" label="contest" />
+      <node id="vocation" label="vocation" />
+      <node id="aristocracies" label="aristocracies" />
+      <node id="struggle" label="struggle" />
+      <node id="discussion" label="discussion" />
+      <node id="feudalism" label="feudalism" />
+      <node id="fight" label="fight" />
+      <node id="fashion" label="fashion" />
+      <node id="innocence" label="innocence" />
+      <node id="prussian" label="prussian" />
+      <node id="must" label="must" />
+      <node id="successfully" label="successfully" />
+      <node id="elbow-room" label="elbow-room" />
+      <node id="middle-class" label="middle-class" />
+      <node id="radicals" label="radicals" />
+      <node id="position" label="position" />
+      <node id="wing" label="wing" />
+      <node id="inquiry" label="inquiry" />
+      <node id="wherever" label="wherever" />
+      <node id="movements" label="movements" />
+      <node id="signs" label="signs" />
+      <node id="police" label="police" />
+      <node id="czar" label="czar" />
+      <node id="guizot" label="guizot" />
+      <node id="mission" label="mission" />
+      <node id="securities" label="securities" />
+      <node id="minorities" label="minorities" />
+      <node id="spies" label="spies" />
+      <node id="life" label="life" />
+      <node id="celibacy" label="celibacy" />
+      <node id="mother" label="mother" />
+      <node id="board" label="board" />
+      <node id="cologne" label="cologne" />
+      <node id="fortress" label="fortress" />
+      <node id="return" label="return" />
+      <node id="members" label="members" />
+      <node id="action" label="action" />
+      <node id="charity" label="charity" />
+      <node id="months" label="months" />
+      <node id="constantinople" label="constantinople" />
+      <node id="light" label="light" />
+      <node id="publisher" label="publisher" />
+      <node id="book" label="book" />
+      <node id="terms" label="terms" />
+      <node id="sentence" label="sentence" />
+      <node id="rule" label="rule" />
+      <node id="crises" label="crises" />
+      <node id="spring" label="spring" />
+      <node id="reformer" label="reformer" />
+      <node id="years" label="years" />
+      <node id="darwin" label="darwin" />
+      <node id="theory" label="theory" />
+      <node id="subjection" label="subjection" />
+      <node id="working" label="working" />
+      <node id="burden" label="burden" />
+      <node id="gompers" label="gompers" />
+      <node id="strength" label="strength" />
+      <node id="masses" label="masses" />
+      <node id="attack" label="attack" />
+      <node id="exertion" label="exertion" />
+      <node id="number" label="number" />
+      <node id="grows" label="grows" />
+      <node id="ruling" label="ruling" />
+      <node id="education" label="education" />
+      <node id="intervention" label="intervention" />
+      <node id="connection" label="connection" />
+      <node id="towards" label="towards" />
+      <node id="swansea" label="swansea" />
+      <node id="workingmen's" label="workingmen's" />
+      <node id="council" label="council" />
+      <node id="express" label="express" />
+      <node id="aim" label="aim" />
+      <node id="europe" label="europe" />
+      <node id="charges" label="charges" />
+      <node id="postage" label="postage" />
+      <node id="specter" label="specter" />
+      <node id="powers" label="powers" />
+      <node id="pope" label="pope" />
+      <node id="america" label="america" />
+      <node id="rounding" label="rounding" />
+      <node id="cape" label="cape" />
+      <node id="east" label="east" />
+      <node id="principles" label="principles" />
+      <node id="is" label="is" />
+      <node id="trades" label="trades" />
+      <node id="unions" label="unions" />
+      <node id="proudhon" label="proudhon" />
+      <node id="followers" label="followers" />
+      <node id="belgium" label="belgium" />
+      <node id="_philosophie" label="_philosophie" />
+      <node id="misère_" label="misère_" />
+      <node id="spain" label="spain" />
+      <node id="example" label="example" />
+      <node id="italy" label="italy" />
+      <node id="lassalleans" label="lassalleans" />
+      <node id="germany" label="germany" />
+      <node id="_petty" label="_petty" />
+      <node id="satisfaction" label="satisfaction" />
+      <node id="globe" label="globe" />
+      <node id="gospel" label="gospel" />
+      <node id="vicissitudes" label="vicissitudes" />
+      <node id="article" label="article" />
+      <node id="fluctuations" label="fluctuations" />
+      <node id="events" label="events" />
+      <node id="capital" label="capital" />
+      <node id="p." label="p." />
+      <node id="defeats" label="defeats" />
+      <node id="home" label="home" />
+      <node id="men" label="men" />
+      <node id="victories" label="victories" />
+      <node id="parents" label="parents" />
+      <node id="realization" label="realization" />
+      <node id="nostrums" label="nostrums" />
+      <node id="lassalleanism" label="lassalleanism" />
+      <node id="sorts" label="sorts" />
+      <node id="minds" label="minds" />
+      <node id="insufficiency" label="insufficiency" />
+      <node id="way" label="way" />
+      <node id="insight" label="insight" />
+      <node id="ears" label="ears" />
+      <node id="emancipation" label="emancipation" />
+      <node id="doubt" label="doubt" />
+      <node id="workers" label="workers" />
+      <node id="contact" label="contact" />
+      <node id="year" label="year" />
+      <node id="president" label="president" />
+      <node id="name" label="name" />
+      <node id="continental" label="continental" />
+      <node id="terrors" label="terrors" />
+      <node id="social-democracy" label="social-democracy" />
+      <node id="fact" label="fact" />
+      <node id="nobility" label="nobility" />
+      <node id="proper" label="proper" />
+      <node id="corner-stone" label="corner-stone" />
+      <node id="monarchies" label="monarchies" />
+      <node id="violent" label="violent" />
+      <node id="headway" label="headway" />
+      <node id="chains" label="chains" />
+      <node id="countries" label="countries" />
+      <node id="arena" label="arena" />
+      <node id="overlookers" label="overlookers" />
+      <node id="front" label="front" />
+      <node id="switzerland" label="switzerland" />
+      <node id="people" label="people" />
+      <node id="alms-bag" label="alms-bag" />
+      <node id="banner" label="banner" />
+      <node id="times" label="times" />
+      <node id="future" label="future" />
+      <node id="bitter" label="bitter" />
+      <node id="witty" label="witty" />
+      <node id="attempts" label="attempts" />
+      <node id="shameless" label="shameless" />
+      <node id="sympathy" label="sympathy" />
+      <node id="indictment" label="indictment" />
+      <node id="england" label="england" />
+      <node id="fourierists" label="fourierists" />
+      <node id="bill" label="bill" />
+      <node id="young" label="young" />
+      <node id="new" label="new" />
+      <node id="york" label="york" />
+      <node id="jerusalem" label="jerusalem" />
+      <node id="claflin" label="claflin" />
+      <node id="woodhull" label="woodhull" />
+      <node id="weekly" label="weekly" />
+      <node id="le" label="le" />
+      <node id="latter" label="latter" />
+      <node id="bibliothek" label="bibliothek" />
+      <node id="bakounine" label="bakounine" />
+      <node id="herzen" label="herzen" />
+      <node id="kolokol" label="kolokol" />
+      <node id="office" label="office" />
+      <node id="zasulitch" label="zasulitch" />
+      <node id="general" label="general" />
+      <node id="geneva" label="geneva" />
+      <node id="translator" label="translator" />
+      <node id="portion" label="portion" />
+      <node id="mr." label="mr." />
+      <node id="samuel" label="samuel" />
+      <node id="i." label="i." />
+      <node id="movement" label="movement" />
+      <node id="words" label="words" />
+      <node id="present" label="present" />
+      <node id="iii" label="iii" />
+      <node id="socialist" label="socialist" />
+      <node id="contempt" label="contempt" />
+      <node id="literature" label="literature" />
+      <node id="philosophers" label="philosophers" />
+      <node id="conservative" label="conservative" />
+      <node id="ledru-rollin" label="ledru-rollin" />
+      <node id="socialists" label="socialists" />
+      <node id="pedantry" label="pedantry" />
+      <node id="belief" label="belief" />
+      <node id="hand" label="hand" />
+      <node id="danger" label="danger" />
+      <node id="spirit" label="spirit" />
+      <node id="adherents" label="adherents" />
+      <node id="unbelief" label="unbelief" />
+      <node id="systems" label="systems" />
+      <node id="respects" label="respects" />
+      <node id="originators" label="originators" />
+      <node id="owenites" label="owenites" />
+      <node id="blind" label="blind" />
+      <node id="réformistes" label="réformistes" />
+      <node id="sects" label="sects" />
+      <node id="manners" label="manners" />
+      <node id="case" label="case" />
+      <node id="quacks" label="quacks" />
+      <node id="profit" label="profit" />
+      <node id="grievances" label="grievances" />
+      <node id="cases" label="cases" />
+      <node id="by" label="by" />
+      <node id="support" label="support" />
+      <node id="earth" label="earth" />
+      <node id="ideologists" label="ideologists" />
+      <node id="level" label="level" />
+      <node id="revolutions" label="revolutions" />
+      <node id="conservation" label="conservation" />
+      <node id="necessity" label="necessity" />
+      <node id="capitalists" label="capitalists" />
+      <node id="schemes" label="schemes" />
+      <node id="change" label="change" />
+      <node id="past" label="past" />
+      <node id="crude" label="crude" />
+      <node id="rough-hewn" label="rough-hewn" />
+      <node id="communism" label="communism" />
+      <node id="point" label="point" />
+      <node id="tendency" label="tendency" />
+      <node id="status" label="status" />
+      <node id="cabet" label="cabet" />
+      <node id="thus" label="thus" />
+      <node id="colony" label="colony" />
+      <node id="inroads" label="inroads" />
+      <node id="act" label="act" />
+      <node id="names" label="names" />
+      <node id="joint" label="joint" />
+      <node id="rents" label="rents" />
+      <node id="floaters" label="floaters" />
+      <node id="joint-stock" label="joint-stock" />
+      <node id="companies" label="companies" />
+      <node id="superiors" label="superiors" />
+      <node id="bound" label="bound" />
+      <node id="feudal" label="feudal" />
+      <node id="patriarchal" label="patriarchal" />
+      <node id="nexus" label="nexus" />
+      <node id="state" label="state" />
+      <node id="committee" label="committee" />
+      <node id="belongs" label="belongs" />
+      <node id="opinion" label="opinion" />
+      <node id="epoch" label="epoch" />
+      <node id="july" label="july" />
+      <node id="mode" label="mode" />
+      <node id="market" label="market" />
+      <node id="step" label="step" />
+      <node id="infancy" label="infancy" />
+      <node id="initiative" label="initiative" />
+      <node id="exchange" label="exchange" />
+      <node id="water" label="water" />
+      <node id="worth" label="worth" />
+      <node id="organization" label="organization" />
+      <node id="india" label="india" />
+      <node id="ireland" label="ireland" />
+      <node id="communistic" label="communistic" />
+      <node id="basis" label="basis" />
+      <node id="experience" label="experience" />
+      <node id="morality" label="morality" />
+      <node id="acts" label="acts" />
+      <node id="contradiction" label="contradiction" />
+      <node id="accusation" label="accusation" />
+      <node id="w." label="w." />
+      <node id="mankind" label="mankind" />
+      <node id="pace" label="pace" />
+      <node id="bonds" label="bonds" />
+      <node id="dissolution" label="dissolution" />
+      <node id="gens" label="gens" />
+      <node id="der" label="der" />
+      <node id="land" label="land" />
+      <node id="ownership" label="ownership" />
+      <node id="haxthausen" label="haxthausen" />
+      <node id="russia" label="russia" />
+      <node id="maurer" label="maurer" />
+      <node id="struggles" label="struggles" />
+      <node id="freeman" label="freeman" />
+      <node id="serf" label="serf" />
+      <node id="dangers" label="dangers" />
+      <node id="therefrom" label="therefrom" />
+      <node id="contests" label="contests" />
+      <node id="advantages" label="advantages" />
+      <node id="series" label="series" />
+      <node id="evolution" label="evolution" />
+      <node id="nowadays" label="nowadays" />
+      <node id="stage" label="stage" />
+      <node id="remnants" label="remnants" />
+      <node id="sway" label="sway" />
+      <node id="exploitation" label="exploitation" />
+      <node id="illusions" label="illusions" />
+      <node id="biology" label="biology" />
+      <node id="condition" label="condition" />
+      <node id="philanthropists" label="philanthropists" />
+      <node id="b" label="b" />
+      <node id="parson" label="parson" />
+      <node id="brussels" label="brussels" />
+      <node id="preface" label="preface" />
+      <node id="owen" label="owen" />
+      <node id="following" label="following" />
+      <node id="simon" label="simon" />
+      <node id="parsons" label="parsons" />
+      <node id="professors" label="professors" />
+      <node id="squires" label="squires" />
+      <node id="things" label="things" />
+      <node id="attainment" label="attainment" />
+      <node id="relative" label="relative" />
+      <node id="whole" label="whole" />
+      <node id="application" label="application" />
+      <node id="hostile" label="hostile" />
+      <node id="camps" label="camps" />
+      <node id="anything" label="anything" />
+      <node id="tautology" label="tautology" />
+      <node id="to-day" label="to-day" />
+      <node id="ii" label="ii" />
+      <node id="detail" label="detail" />
+      <node id="passage" label="passage" />
+      <node id="strides" label="strides" />
+      <node id="chemistry" label="chemistry" />
+      <node id="reason" label="reason" />
+      <node id="measures" label="measures" />
+      <node id="constitution" label="constitution" />
+      <node id="practical" label="practical" />
+      <node id="utterances" label="utterances" />
+      <node id="stress" label="stress" />
+      <node id="peace" label="peace" />
+      <node id="materials" label="materials" />
+      <node id="end" label="end" />
+      <node id="motley" label="motley" />
+      <node id="gain" label="gain" />
+      <node id="industrial" label="industrial" />
+      <node id="section" label="section" />
+      <node id="range" label="range" />
+      <node id="coats" label="coats" />
+      <node id="laughter" label="laughter" />
+      <node id="legitimists" label="legitimists" />
+      <node id="disciples" label="disciples" />
+      <node id="justification" label="justification" />
+      <node id="view" label="view" />
+      <node id="wheel" label="wheel" />
+      <node id="impending" label="impending" />
+      <node id="transfer" label="transfer" />
+      <node id="annexation" label="annexation" />
+      <node id="commune" label="commune" />
+      <node id="d" label="d" />
+      <node id="serfdom" label="serfdom" />
+      <node id="membership" label="membership" />
+      <node id="yoke" label="yoke" />
+      <node id="power" label="power" />
+      <node id="reproach" label="reproach" />
+      <node id="use" label="use" />
+      <node id="whereas" label="whereas" />
+      <node id="details" label="details" />
+      <node id="viz." label="viz." />
+      <node id="bedford" label="bedford" />
+      <node id="extant" label="extant" />
+      <node id="study" label="study" />
+      <node id="thing" label="thing" />
+      <node id="mass" label="mass" />
+      <node id="machinery" label="machinery" />
+      <node id="demand" label="demand" />
+      <node id="wares" label="wares" />
+      <node id="rob" label="rob" />
+      <node id="purposes" label="purposes" />
+      <node id="progressive" label="progressive" />
+      <node id="income" label="income" />
+      <node id="tax" label="tax" />
+      <node id="war" label="war" />
+      <node id="barbarism" label="barbarism" />
+      <node id="famine" label="famine" />
+      <node id="devastation" label="devastation" />
+      <node id="supply" label="supply" />
+      <node id="address" label="address" />
+      <node id="minneapolis" label="minneapolis" />
+      <node id="minn" label="minn" />
+      <node id="daniel" label="daniel" />
+      <node id="de" label="de" />
+      <node id="subjects" label="subjects" />
+      <node id="textile" label="textile" />
+      <node id="covers" label="covers" />
+      <node id="truelove" label="truelove" />
+      <node id="criticism" label="criticism" />
+      <node id="money" label="money" />
+      <node id="nonsense" label="nonsense" />
+      <node id="functions" label="functions" />
+      <node id="alienation" label="alienation" />
+      <node id="humanity" label="humanity" />
+      <node id="forgot" label="forgot" />
+      <node id="relation" label="relation" />
+      <node id="worker" label="worker" />
+      <node id="employer" label="employer" />
+      <node id="source" label="source" />
+      <node id="remarks" label="remarks" />
+      <node id="veil" label="veil" />
+      <node id="proletarian" label="proletarian" />
+      <node id="opposition" label="opposition" />
+      <node id="branding" label="branding" />
+      <node id="iv" label="iv" />
+      <node id="situation" label="situation" />
+      <node id="element" label="element" />
+      <node id="utopia" label="utopia" />
+      <node id="principle" label="principle" />
+      <node id="practice" label="practice" />
+      <node id="progress" label="progress" />
+      <node id="rise" label="rise" />
+      <node id="document" label="document" />
+      <node id="desire" label="desire" />
+      <node id="regard" label="regard" />
+      <node id="right" label="right" />
+      <node id="inheritance" label="inheritance" />
+      <node id="social-democrats" label="social-democrats" />
+      <node id="moore" label="moore" />
+      <node id="career" label="career" />
+      <node id="safety" label="safety" />
+      <node id="allusions" label="allusions" />
+      <node id="k." label="k." />
+      <node id="ground" label="ground" />
+      <node id="canalization" label="canalization" />
+      <node id="century" label="century" />
+      <node id="lap" label="lap" />
+      <node id="credit" label="credit" />
+      <node id="disturbance" label="disturbance" />
+      <node id="workshops" label="workshops" />
+      <node id="rebels" label="rebels" />
+      <node id="emigrants" label="emigrants" />
+      <node id="n." label="n." />
+      <node id="y" label="y" />
+      <node id="news" label="news" />
+      <node id="co." label="co." />
+      <node id="city" label="city" />
+      <node id="hall" label="hall" />
+      <node id="place" label="place" />
+      <node id="seclusion" label="seclusion" />
+      <node id="the" label="the" />
+      <node id="in" label="in" />
+      <node id="to" label="to" />
+      <node id="various" label="various" />
+      <node id="existing" label="existing" />
+      <node id="preamble" label="preamble" />
+      <node id="and" label="and" />
+      <node id="alliance" label="alliance" />
+      <node id="metternich" label="metternich" />
+      <node id="aims" label="aims" />
+      <node id="tendencies" label="tendencies" />
+      <node id="tale" label="tale" />
+      <node id="decade" label="decade" />
+      <node id="opponents" label="opponents" />
+      <node id="adversaries" label="adversaries" />
+      <node id="face" label="face" />
+      <node id="decay" label="decay" />
+      <node id="world" label="world" />
+      <node id="national" label="national" />
+      <node id="views" label="views" />
+      <node id="nationalities" label="nationalities" />
+      <node id="overthrow" label="overthrow" />
+      <node id="enforcement" label="enforcement" />
+      <node id="leaflets" label="leaflets" />
+      <node id="croatian" label="croatian" />
+      <node id="_a_" label="_a_" />
+      <node id="proletarians" label="proletarians" />
+      <node id="disposal" label="disposal" />
+      <node id="centuries" label="centuries" />
+      <node id="thanks" label="thanks" />
+      <node id="pleasure" label="pleasure" />
+      <node id="hitherto" label="hitherto" />
+      <node id="halo" label="halo" />
+      <node id="occupation" label="occupation" />
+      <node id="awe" label="awe" />
+      <node id="physician" label="physician" />
+      <node id="lawyer" label="lawyer" />
+      <node id="guildmaster" label="guildmaster" />
+      <node id="lord" label="lord" />
+      <node id="c" label="c" />
+      <node id="oppressor" label="oppressor" />
+      <node id="edit." label="edit." />
+      <node id="staats" label="staats" />
+      <node id="stuttgart" label="stuttgart" />
+      <node id="journeyman" label="journeyman" />
+      <node id="word" label="word" />
+      <node id="reconstitution" label="reconstitution" />
+      <node id="contending" label="contending" />
+      <node id="overproduction" label="overproduction" />
+      <node id="ruin" label="ruin" />
+      <node id="epochs" label="epochs" />
+      <node id="arrangement" label="arrangement" />
+      <node id="epidemic" label="epidemic" />
+      <node id="send" label="send" />
+      <node id="orders" label="orders" />
+      <node id="gradation" label="gradation" />
+      <node id="rome" label="rome" />
+      <node id="pamphlet" label="pamphlet" />
+      <node id="rank" label="rank" />
+      <node id="patricians" label="patricians" />
+      <node id="knights" label="knights" />
+      <node id="plebeians" label="plebeians" />
+      <node id="slaves" label="slaves" />
+      <node id="hierarchy" label="hierarchy" />
+      <node id="sergeants" label="sergeants" />
+      <node id="ages" label="ages" />
+      <node id="vigor" label="vigor" />
+      <node id="highways" label="highways" />
+      <node id="moves" label="moves" />
+      <node id="lords" label="lords" />
+      <node id="masters" label="masters" />
+      <node id="journeymen" label="journeymen" />
+      <node id="estate" label="estate" />
+      <node id="rights" label="rights" />
+      <node id="vassals" label="vassals" />
+      <node id="apprentices" label="apprentices" />
+      <node id="serfs" label="serfs" />
+      <node id="self-government" label="self-government" />
+      <node id="gradations" label="gradations" />
+      <node id="burghers" label="burghers" />
+      <node id="ruins" label="ruins" />
+      <node id="atmosphere" label="atmosphere" />
+      <node id="antagonisms" label="antagonisms" />
+      <node id="differences" label="differences" />
+      <node id="vanishing" label="vanishing" />
+      <node id="dream" label="dream" />
+      <node id="utopias" label="utopias" />
+      <node id="forms" label="forms" />
+      <node id="multiplicity" label="multiplicity" />
+      <node id="variety" label="variety" />
+      <node id="bourgeois_" label="bourgeois_" />
+      <node id="ones" label="ones" />
+      <node id="ancient" label="ancient" />
+      <node id="prejudices" label="prejudices" />
+      <node id="opinions" label="opinions" />
+      <node id="melts" label="melts" />
+      <node id="possesses" label="possesses" />
+      <node id="all" label="all" />
+      <node id="favor" label="favor" />
+      <node id="feature" label="feature" />
+      <node id="towns" label="towns" />
+      <node id="burgesses" label="burgesses" />
+      <node id="peasant" label="peasant" />
+      <node id="precursors" label="precursors" />
+      <node id="elements" label="elements" />
+      <node id="poland" label="poland" />
+      <node id="discovery" label="discovery" />
+      <node id="nature" label="nature" />
+      <node id="bare" label="bare" />
+      <node id="tribe" label="tribe" />
+      <node id="markets" label="markets" />
+      <node id="workshop" label="workshop" />
+      <node id="thereupon" label="thereupon" />
+      <node id="colonization" label="colonization" />
+      <node id="west" label="west" />
+      <node id="colonies" label="colonies" />
+      <node id="plan" label="plan" />
+      <node id="fourier" label="fourier" />
+      <node id="icaria" label="icaria" />
+      <node id="increase" label="increase" />
+      <node id="toil" label="toil" />
+      <node id="prolongation" label="prolongation" />
+      <node id="means" label="means" />
+      <node id="communication" label="communication" />
+      <node id="fruit" label="fruit" />
+      <node id="commodities" label="commodities" />
+      <node id="civilization" label="civilization" />
+      <node id="prices" label="prices" />
+      <node id="artillery" label="artillery" />
+      <node id="walls" label="walls" />
+      <node id="barbarians" label="barbarians" />
+      <node id="foreigners" label="foreigners" />
+      <node id="navigation" label="navigation" />
+      <node id="railways" label="railways" />
+      <node id="clearing" label="clearing" />
+      <node id="continents" label="continents" />
+      <node id="system" label="system" />
+      <node id="wage" label="wage" />
+      <node id="conversion" label="conversion" />
+      <node id="guilds" label="guilds" />
+      <node id="forbidden" label="forbidden" />
+      <node id="opportunity" label="opportunity" />
+      <node id="manufacturing" label="manufacturing" />
+      <node id="side" label="side" />
+      <node id="manufactures" label="manufactures" />
+      <node id="division" label="division" />
+      <node id="destruction" label="destruction" />
+      <node id="manufacture" label="manufacture" />
+      <node id="steam" label="steam" />
+      <node id="monarchy" label="monarchy" />
+      <node id="period" label="period" />
+      <node id="counterpoise" label="counterpoise" />
+      <node id="giant" label="giant" />
+      <node id="afterwards" label="afterwards" />
+      <node id="modern" label="modern" />
+      <node id="failure" label="failure" />
+      <node id="usually" label="usually" />
+      <node id="millionaires" label="millionaires" />
+      <node id="armies" label="armies" />
+      <node id="combination" label="combination" />
+      <node id="leaders" label="leaders" />
+      <node id="immense" label="immense" />
+      <node id="revolt" label="revolt" />
+      <node id="conclusions" label="conclusions" />
+      <node id="uniformity" label="uniformity" />
+      <node id="commerce" label="commerce" />
+      <node id="agriculture" label="agriculture" />
+      <node id="shopmen" label="shopmen" />
+      <node id="hands" label="hands" />
+      <node id="battles" label="battles" />
+      <node id="turn" label="turn" />
+      <node id="factories" label="factories" />
+      <node id="proportion" label="proportion" />
+      <node id="increases" label="increases" />
+      <node id="telegraphs" label="telegraphs" />
+      <node id="product" label="product" />
+      <node id="over-seer" label="over-seer" />
+      <node id="despotism" label="despotism" />
+      <node id="artisan" label="artisan" />
+      <node id="resort" label="resort" />
+      <node id="course" label="course" />
+      <node id="phases" label="phases" />
+      <node id="advance" label="advance" />
+      <node id="isolation" label="isolation" />
+      <node id="medieval" label="medieval" />
+      <node id="proprietors" label="proprietors" />
+      <node id="member" label="member" />
+      <node id="republic" label="republic" />
+      <node id="cents" label="cents" />
+      <node id="copies" label="copies" />
+      <node id="enemies" label="enemies" />
+      <node id="establishment" label="establishment" />
+      <node id="accordance" label="accordance" />
+      <node id="executive" label="executive" />
+      <node id="affairs" label="affairs" />
+      <node id="part" label="part" />
+      <node id="tool" label="tool" />
+      <node id="intrigue" label="intrigue" />
+      <node id="sale" label="sale" />
+      <node id="relations" label="relations" />
+      <node id="reforms" label="reforms" />
+      <node id="man" label="man" />
+      <node id="philistine" label="philistine" />
+      <node id="model" label="model" />
+      <node id="cash" label="cash" />
+      <node id="payment" label="payment" />
+      <node id="ecstacies" label="ecstacies" />
+      <node id="fervor" label="fervor" />
+      <node id="enthusiasm" label="enthusiasm" />
+      <node id="sentimentalism" label="sentimentalism" />
+      <node id="icy" label="icy" />
+      <node id="calculation" label="calculation" />
+      <node id="priest" label="priest" />
+      <node id="aristocrat" label="aristocrat" />
+      <node id="value" label="value" />
+      <node id="freedoms" label="freedoms" />
+      <node id="freedom" label="freedom" />
+      <node id="states" label="states" />
+      <node id="poet" label="poet" />
+      <node id="heart-burnings" label="heart-burnings" />
+      <node id="_b_" label="_b_" />
+      <node id="science" label="science" />
+      <node id="antagonism" label="antagonism" />
+      <node id="laborers" label="laborers" />
+      <node id="factory" label="factory" />
+      <node id="operatives" label="operatives" />
+      <node id="promoter" label="promoter" />
+      <node id="moment" label="moment" />
+      <node id="display" label="display" />
+      <node id="admire" label="admire" />
+      <node id="complement" label="complement" />
+      <node id="indolence" label="indolence" />
+      <node id="activity" label="activity" />
+      <node id="wonders" label="wonders" />
+      <node id="roman" label="roman" />
+      <node id="independence" label="independence" />
+      <node id="pyramids" label="pyramids" />
+      <node id="gothic" label="gothic" />
+      <node id="cathedrals" label="cathedrals" />
+      <node id="expeditions" label="expeditions" />
+      <node id="shade" label="shade" />
+      <node id="exoduses" label="exoduses" />
+      <node id="crusades" label="crusades" />
+      <node id="nations" label="nations" />
+      <node id="pain" label="pain" />
+      <node id="instruments" label="instruments" />
+      <node id="pieces" label="pieces" />
+      <node id="lot" label="lot" />
+      <node id="just" label="just" />
+      <node id="revolutionizing" label="revolutionizing" />
+      <node id="uncertainty" label="uncertainty" />
+      <node id="train" label="train" />
+      <node id="lurk" label="lurk" />
+      <node id="ambush" label="ambush" />
+      <node id="senses" label="senses" />
+      <node id="substance" label="substance" />
+      <node id="air" label="air" />
+      <node id="degrees" label="degrees" />
+      <node id="castles" label="castles" />
+      <node id="feelings" label="feelings" />
+      <node id="purses" label="purses" />
+      <node id="kind" label="kind" />
+      <node id="fanatics" label="fanatics" />
+      <node id="hole" label="hole" />
+      <node id="reformers" label="reformers" />
+      <node id="need" label="need" />
+      <node id="substitution" label="substitution" />
+      <node id="surroundings" label="surroundings" />
+      <node id="products" label="products" />
+      <node id="connections" label="connections" />
+      <node id="surface" label="surface" />
+      <node id="quarter" label="quarter" />
+      <node id="productions" label="productions" />
+      <node id="character" label="character" />
+      <node id="hidden" label="hidden" />
+      <node id="contrary" label="contrary" />
+      <node id="length" label="length" />
+      <node id="consumption" label="consumption" />
+      <node id="reactionists" label="reactionists" />
+      <node id="feet" label="feet" />
+      <node id="country" label="country" />
+      <node id="chagrin" label="chagrin" />
+      <node id="volume" label="volume" />
+      <node id="economics" label="economics" />
+      <node id="threshold" label="threshold" />
+      <node id="faculties" label="faculties" />
+      <node id="introduction" label="introduction" />
+      <node id="philosophy" label="philosophy" />
+      <node id="criticisms" label="criticisms" />
+      <node id="aveling" label="aveling" />
+      <node id="annotations" label="annotations" />
+      <node id="sanial" label="sanial" />
+      <node id="death" label="death" />
+      <node id="degree" label="degree" />
+      <node id="question" label="question" />
+      <node id="matter" label="matter" />
+      <node id="material" label="material" />
+      <node id="self-sufficiency" label="self-sufficiency" />
+      <node id="lands" label="lands" />
+      <node id="improvement" label="improvement" />
+      <node id="bringing" label="bringing" />
+      <node id="climes" label="climes" />
+      <node id="direction" label="direction" />
+      <node id="inter-dependence" label="inter-dependence" />
+      <node id="creations" label="creations" />
+      <node id="become" label="become" />
+      <node id="literatures" label="literatures" />
+      <node id="collisions" label="collisions" />
+      <node id="soil" label="soil" />
+      <node id="liability" label="liability" />
+      <node id="_i.e._" label="_i.e._" />
+      <node id="extinction" label="extinction" />
+      <node id="fractions" label="fractions" />
+      <node id="nay" label="nay" />
+      <node id="midst" label="midst" />
+      <node id="image" label="image" />
+      <node id="bit" label="bit" />
+      <node id="phrase" label="phrase" />
+      <node id="subsistence" label="subsistence" />
+      <node id="frontier" label="frontier" />
+      <node id="customs" label="customs" />
+      <node id="cities" label="cities" />
+      <node id="idiocy" label="idiocy" />
+      <node id="dependent" label="dependent" />
+      <node id="scarce" label="scarce" />
+      <node id="population" label="population" />
+      <node id="pauper" label="pauper" />
+      <node id="pauperism" label="pauperism" />
+      <node id="ranks" label="ranks" />
+      <node id="nine-tenths" label="nine-tenths" />
+      <node id="a" label="a" />
+      <node id="peasants" label="peasants" />
+      <node id="trades-people" label="trades-people" />
+      <node id="shopkeepers" label="shopkeepers" />
+      <node id="tradesmen" label="tradesmen" />
+      <node id="handicraftsmen" label="handicraftsmen" />
+      <node id="monopoly" label="monopoly" />
+      <node id="consequence" label="consequence" />
+      <node id="provinces" label="provinces" />
+      <node id="union" label="union" />
+      <node id="centralization" label="centralization" />
+      <node id="independent" label="independent" />
+      <node id="laws" label="laws" />
+      <node id="bodies" label="bodies" />
+      <node id="interests" label="interests" />
+      <node id="pure" label="pure" />
+      <node id="governments" label="governments" />
+      <node id="true" label="true" />
+      <node id="pills" label="pills" />
+      <node id="bullets" label="bullets" />
+      <node id="taxation" label="taxation" />
+      <node id="code" label="code" />
+      <node id="risings" label="risings" />
+      <node id="weapon" label="weapon" />
+      <node id="founders" label="founders" />
+      <node id="nation" label="nation" />
+      <node id="vanishes" label="vanishes" />
+      <node id="representative" label="representative" />
+      <node id="meanness" label="meanness" />
+      <node id="government" label="government" />
+      <node id="demands" label="demands" />
+      <node id="anathemas" label="anathemas" />
+      <node id="liberalism" label="liberalism" />
+      <node id="search" label="search" />
+      <node id="interest" label="interest" />
+      <node id="tariff" label="tariff" />
+      <node id="forces" label="forces" />
+      <node id="generations" label="generations" />
+      <node id="presentiment" label="presentiment" />
+      <node id="mechanism" label="mechanism" />
+      <node id="self-deception" label="self-deception" />
+      <node id="cultivation" label="cultivation" />
+      <node id="rivers" label="rivers" />
+      <node id="populations" label="populations" />
+      <node id="waste" label="waste" />
+      <node id="significance" label="significance" />
+      <node id="foundation" label="foundation" />
+      <node id="teutonic" label="teutonic" />
+      <node id="village" label="village" />
+      <node id="flare" label="flare" />
+      <node id="fetters" label="fetters" />
+      <node id="asunder" label="asunder" />
+      <node id="ties" label="ties" />
+      <node id="into" label="into" />
+      <node id="disorder" label="disorder" />
+      <node id="articles" label="articles" />
+      <node id="competition" label="competition" />
+      <node id="eyes" label="eyes" />
+      <node id="formation" label="formation" />
+      <node id="inventors" label="inventors" />
+      <node id="resolves" label="resolves" />
+      <node id="propaganda" label="propaganda" />
+      <node id="plans" label="plans" />
+      <node id="sorcerer" label="sorcerer" />
+      <node id="spells" label="spells" />
+      <node id="total" label="total" />
+      <node id="absurdity" label="absurdity" />
+      <node id="maintenance" label="maintenance" />
+      <node id="race" label="race" />
+      <node id="price" label="price" />
+      <node id="wives" label="wives" />
+      <node id="prostitutes" label="prostitutes" />
+      <node id="wealth" label="wealth" />
+      <node id="distribution" label="distribution" />
+      <node id="anarchy" label="anarchy" />
+      <node id="get" label="get" />
+      <node id="extermination" label="extermination" />
+      <node id="conquest" label="conquest" />
+      <node id="work" label="work" />
+      <node id="stock" label="stock" />
+      <node id="corporation" label="corporation" />
+      <node id="commodity" label="commodity" />
+      <node id="cost" label="cost" />
+      <node id="propagation" label="propagation" />
+      <node id="run" label="run" />
+      <node id="eyesight" label="eyesight" />
+      <node id="charm" label="charm" />
+      <node id="workman" label="workman" />
+      <node id="machine" label="machine" />
+      <node id="knack" label="knack" />
+      <node id="appendage" label="appendage" />
+      <node id="hence" label="hence" />
+      <node id="loss" label="loss" />
+      <node id="enlightenment" label="enlightenment" />
+      <node id="appropriation" label="appropriation" />
+      <node id="surplus" label="surplus" />
+      <node id="repulsiveness" label="repulsiveness" />
+      <node id="chance" label="chance" />
+      <node id="hours" label="hours" />
+      <node id="do" label="do" />
+      <node id="poverty" label="poverty" />
+      <node id="luxury" label="luxury" />
+      <node id="speed" label="speed" />
+      <node id="frame" label="frame" />
+      <node id="master" label="master" />
+      <node id="aristocracy" label="aristocracy" />
+      <node id="revenge" label="revenge" />
+      <node id="lampoons" label="lampoons" />
+      <node id="prophecies" label="prophecies" />
+      <node id="catastrophe" label="catastrophe" />
+      <node id="soldiers" label="soldiers" />
+      <node id="army" label="army" />
+      <node id="workpeople" label="workpeople" />
+      <node id="locality" label="locality" />
+      <node id="capitalist" label="capitalist" />
+      <node id="directors" label="directors" />
+      <node id="accumulation" label="accumulation" />
+      <node id="liberty" label="liberty" />
+      <node id="privates" label="privates" />
+      <node id="command" label="command" />
+      <node id="officers" label="officers" />
+      <node id="manufacturer" label="manufacturer" />
+      <node id="shopkeeper" label="shopkeeper" />
+      <node id="results" label="results" />
+      <node id="women" label="women" />
+      <node id="fall" label="fall" />
+      <node id="community" label="community" />
+      <node id="conclusion" label="conclusion" />
+      <node id="indignation" label="indignation" />
+      <node id="validity" label="validity" />
+      <node id="sooner" label="sooner" />
+      <node id="thousand" label="thousand" />
+      <node id="lieutenants" label="lieutenants" />
+      <node id="age" label="age" />
+      <node id="sex" label="sex" />
+      <node id="laborer" label="laborer" />
+      <node id="wage-laborer" label="wage-laborer" />
+      <node id="appropriates" label="appropriates" />
+      <node id="wages" label="wages" />
+      <node id="rate" label="rate" />
+      <node id="profits" label="profits" />
+      <node id="portions" label="portions" />
+      <node id="account" label="account" />
+      <node id="individuals" label="individuals" />
+      <node id="squirearchy" label="squirearchy" />
+      <node id="stewards" label="stewards" />
+      <node id="landlord" label="landlord" />
+      <node id="strata" label="strata" />
+      <node id="pawnbroker" label="pawnbroker" />
+      <node id="stratum" label="stratum" />
+      <node id="scale" label="scale" />
+      <node id="rests" label="rests" />
+      <node id="skill" label="skill" />
+      <node id="worthless" label="worthless" />
+      <node id="methods" label="methods" />
+      <node id="birth" label="birth" />
+      <node id="nationality" label="nationality" />
+      <node id="provision" label="provision" />
+      <node id="revolts" label="revolts" />
+      <node id="riots" label="riots" />
+      <node id="attacks" label="attacks" />
+      <node id="shape" label="shape" />
+      <node id="force" label="force" />
+      <node id="endeavor" label="endeavor" />
+      <node id="agreement" label="agreement" />
+      <node id="order" label="order" />
+      <node id="associations" label="associations" />
+      <node id="swedish" label="swedish" />
+      <node id="amount" label="amount" />
+      <node id="ends" label="ends" />
+      <node id="excitement" label="excitement" />
+      <node id="motion" label="motion" />
+      <node id="victory" label="victory" />
+      <node id="produces" label="produces" />
+      <node id="grave" label="grave" />
+      <node id="equality" label="equality" />
+      <node id="individual" label="individual" />
+      <node id="ten-hours" label="ten-hours" />
+      <node id="beforehand" label="beforehand" />
+      <node id="result" label="result" />
+      <node id="localities" label="localities" />
+      <node id="recognition" label="recognition" />
+      <node id="advantage" label="advantage" />
+      <node id="march" label="march" />
+      <node id="divisions" label="divisions" />
+      <node id="ways" label="ways" />
+      <node id="process" label="process" />
+      <node id="_literati_" label="_literati_" />
+      <node id="works" label="works" />
+      <node id="care" label="care" />
+      <node id="standpoint" label="standpoint" />
+      <node id="examination" label="examination" />
+      <node id="intuition" label="intuition" />
+      <node id="children" label="children" />
+      <node id="crime" label="crime" />
+      <node id="expression" label="expression" />
+      <node id="chorus" label="chorus" />
+      <node id="instrument" label="instrument" />
+      <node id="trace" label="trace" />
+      <node id="upon" label="upon" />
+      <node id="slave" label="slave" />
+      <node id="outgrowth" label="outgrowth" />
+      <node id="jurisprudence" label="jurisprudence" />
+      <node id="besides" label="besides" />
+      <node id="preceding" label="preceding" />
+      <node id="suspicion" label="suspicion" />
+      <node id="insurances" label="insurances" />
+      <node id="nothing" label="nothing" />
+      <node id="rest" label="rest" />
+      <node id="has" label="has" />
+      <node id="majority" label="majority" />
+      <node id="culture" label="culture" />
+      <node id="training" label="training" />
+      <node id="non-existence" label="non-existence" />
+      <node id="petty" label="petty" />
+      <node id="absolutism" label="absolutism" />
+      <node id="unfurls" label="unfurls" />
+      <node id="slavery" label="slavery" />
+      <node id="augmentation" label="augmentation" />
+      <node id="chiefly" label="chiefly" />
+      <node id="therefore" label="therefore" />
+      <node id="diggers" label="diggers" />
+      <node id="wage-laborers" label="wage-laborers" />
+      <node id="bank" label="bank" />
+      <node id="labor-power" label="labor-power" />
+      <node id="pre-history" label="pre-history" />
+      <node id="races" label="races" />
+      <node id="communities" label="communities" />
+      <node id="contrast" label="contrast" />
+      <node id="traders" label="traders" />
+      <node id="ursprung" label="ursprung" />
+      <node id="familie" label="familie" />
+      <node id="privateigenthums" label="privateigenthums" />
+      <node id="und" label="und" />
+      <node id="des" label="des" />
+      <node id="guild" label="guild" />
+      <node id="head" label="head" />
+      <node id="sismondi" label="sismondi" />
+      <node id="school" label="school" />
+      <node id="others" label="others" />
+      <node id="reproduction" label="reproduction" />
+      <node id="writings" label="writings" />
+      <node id="baboeuf" label="baboeuf" />
+      <node id="line" label="line" />
+      <node id="incapacity" label="incapacity" />
+      <node id="core" label="core" />
+      <node id="pressure" label="pressure" />
+      <node id="abolition" label="abolition" />
+      <node id="proposal" label="proposal" />
+      <node id="lamentation" label="lamentation" />
+      <node id="half" label="half" />
+      <node id="lampoon" label="lampoon" />
+      <node id="echo" label="echo" />
+      <node id="consequent" label="consequent" />
+      <node id="menace" label="menace" />
+      <node id="objection" label="objection" />
+      <node id="objections" label="objections" />
+      <node id="figure" label="figure" />
+      <node id="speech" label="speech" />
+      <node id="hard-won" label="hard-won" />
+      <node id="come" label="come" />
+      <node id="whence" label="whence" />
+      <node id="quantum" label="quantum" />
+      <node id="prostitution" label="prostitution" />
+      <node id="sides" label="sides" />
+      <node id="individuality" label="individuality" />
+      <node id="confess" label="confess" />
+      <node id="owner" label="owner" />
+      <node id="person" label="person" />
+      <node id="selling" label="selling" />
+      <node id="buying" label="buying" />
+      <node id="disappears" label="disappears" />
+      <node id="talk" label="talk" />
+      <node id="meaning" label="meaning" />
+      <node id="rent" label="rent" />
+      <node id="hostility" label="hostility" />
+      <node id="laziness" label="laziness" />
+      <node id="sheer" label="sheer" />
+      <node id="idleness" label="idleness" />
+      <node id="dogs" label="dogs" />
+      <node id="rots" label="rots" />
+      <node id="disappearance" label="disappearance" />
+      <node id="notions" label="notions" />
+      <node id="superintendence" label="superintendence" />
+      <node id="_regime_" label="_regime_" />
+      <node id="misconception" label="misconception" />
+      <node id="disappear" label="disappear" />
+      <node id="concentration" label="concentration" />
+      <node id="share" label="share" />
+      <node id="understanding" label="understanding" />
+      <node id="schools" label="schools" />
+      <node id="influence" label="influence" />
+      <node id="co-relation" label="co-relation" />
+      <node id="parent" label="parent" />
+      <node id="clap-trap" label="clap-trap" />
+      <node id="daughters" label="daughters" />
+      <node id="marriage" label="marriage" />
+      <node id="bounds" label="bounds" />
+      <node id="reality" label="reality" />
+      <node id="realm" label="realm" />
+      <node id="phantasy" label="phantasy" />
+      <node id="task" label="task" />
+      <node id="thereto" label="thereto" />
+      <node id="object" label="object" />
+      <node id="united" label="united" />
+      <node id="democracy" label="democracy" />
+      <node id="cudgels" label="cudgels" />
+      <node id="conceptions" label="conceptions" />
+      <node id="consciousness" label="consciousness" />
+      <node id="rupture" label="rupture" />
+      <node id="changes" label="changes" />
+      <node id="wonder" label="wonder" />
+      <node id="hindquarters" label="hindquarters" />
+      <node id="arms" label="arms" />
+      <node id="throes" label="throes" />
+      <node id="christianity" label="christianity" />
+      <node id="marriages" label="marriages" />
+      <node id="religions" label="religions" />
+      <node id="asceticism" label="asceticism" />
+      <node id="tinge" label="tinge" />
+      <node id="press" label="press" />
+      <node id="conscience" label="conscience" />
+      <node id="legislation" label="legislation" />
+      <node id="domain" label="domain" />
+      <node id="knowledge" label="knowledge" />
+      <node id="cries" label="cries" />
+      <node id="phrases" label="phrases" />
+      <node id="back" label="back" />
+      <node id="truths" label="truths" />
+      <node id="etc." label="etc." />
+      <node id="sorry" label="sorry" />
+      <node id="skin" label="skin" />
+      <node id="justice" label="justice" />
+      <node id="dethronement" label="dethronement" />
+      <node id="distillers" label="distillers" />
+      <node id="confiscation" label="confiscation" />
+      <node id="exist" label="exist" />
+      <node id="town" label="town" />
+      <node id="preference" label="preference" />
+      <node id="sweeps" label="sweeps" />
+      <node id="experiments" label="experiments" />
+      <node id="reactionary" label="reactionary" />
+      <node id="socialism_" label="socialism_" />
+      <node id="fit" label="fit" />
+      <node id="blues" label="blues" />
+      <node id="_german" label="_german" />
+      <node id="reform" label="reform" />
+      <node id="upstart" label="upstart" />
+      <node id="pamphlets" label="pamphlets" />
+      <node id="seventeenth" label="seventeenth" />
+      <node id="benefit" label="benefit" />
+      <node id="chicago" label="chicago" />
+      <node id="restoration" label="restoration" />
+      <node id="chartists" label="chartists" />
+      <node id="writers" label="writers" />
+      <node id="heart" label="heart" />
+      <node id="effects" label="effects" />
+      <node id="facts" label="facts" />
+      <node id="spectacle" label="spectacle" />
+      <node id="offspring" label="offspring" />
+      <node id="bourgeosie" label="bourgeosie" />
+      <node id="falutin" label="falutin" />
+      <node id="tree" label="tree" />
+      <node id="apples" label="apples" />
+      <node id="truth" label="truth" />
+      <node id="love" label="love" />
+      <node id="traffic" label="traffic" />
+      <node id="wool" label="wool" />
+      <node id="one-sidedness" label="one-sidedness" />
+      <node id="honor" label="honor" />
+      <node id="sugar" label="sugar" />
+      <node id="potato" label="potato" />
+      <node id="beet-root" label="beet-root" />
+      <node id="manufacturers" label="manufacturers" />
+      <node id="spirits" label="spirits" />
+      <node id="levelling" label="levelling" />
+      <node id="mortification" label="mortification" />
+      <node id="flesh" label="flesh" />
+      <node id="prevention" label="prevention" />
+      <node id="organizers" label="organizers" />
+      <node id="church" label="church" />
+      <node id="holy" label="holy" />
+      <node id="bailiffs" label="bailiffs" />
+      <node id="acuteness" label="acuteness" />
+      <node id="contradictions" label="contradictions" />
+      <node id="economists" label="economists" />
+      <node id="belong" label="belong" />
+      <node id="humanitarians" label="humanitarians" />
+      <node id="improvers" label="improvers" />
+      <node id="misery" label="misery" />
+      <node id="inequalities" label="inequalities" />
+      <node id="_c_" label="_c_" />
+      <node id="_beaux" label="_beaux" />
+      <node id="esprits_" label="esprits_" />
+      <node id="aspect" label="aspect" />
+      <node id="proposals" label="proposals" />
+      <node id="human" label="human" />
+      <node id="simple" label="simple" />
+      <node id="manuscripts" label="manuscripts" />
+      <node id="heathendom" label="heathendom" />
+      <node id="harmony" label="harmony" />
+      <node id="proclamation" label="proclamation" />
+      <node id="language" label="language" />
+      <node id="lives" label="lives" />
+      <node id="saints" label="saints" />
+      <node id="monks" label="monks" />
+      <node id="profane" label="profane" />
+      <node id="original" label="original" />
+      <node id="instance" label="instance" />
+      <node id="category" label="category" />
+      <node id="philosophical" label="philosophical" />
+      <node id="requirements" label="requirements" />
+      <node id="corporations" label="corporations" />
+      <node id="louis" label="louis" />
+      <node id="blanc" label="blanc" />
+      <node id="reforme" label="reforme" />
+      <node id="everything" label="everything" />
+      <node id="lucien" label="lucien" />
+      <node id="officials" label="officials" />
+      <node id="scarecrow" label="scarecrow" />
+      <node id="finish" label="finish" />
+      <node id="floggings" label="floggings" />
+      <node id="philistines" label="philistines" />
+      <node id="relique" label="relique" />
+      <node id="birds" label="birds" />
+      <node id="robe" label="robe" />
+      <node id="cobwebs" label="cobwebs" />
+      <node id="stone" label="stone" />
+      <node id="flowers" label="flowers" />
+      <node id="rhetoric" label="rhetoric" />
+      <node id="dew" label="dew" />
+      <node id="sentiment" label="sentiment" />
+      <node id="bone" label="bone" />
+      <node id="goods" label="goods" />
+      <node id="public" label="public" />
+      <node id="interpretation" label="interpretation" />
+      <node id="supreme" label="supreme" />
+      <node id="class-struggles" label="class-struggles" />
+      <node id="exceptions" label="exceptions" />
+      <node id="publications" label="publications" />
+      <node id="circulate" label="circulate" />
+      <node id="foul" label="foul" />
+      <node id="or" label="or" />
+      <node id="societies" label="societies" />
+      <node id="cruelty" label="cruelty" />
+      <node id="animals" label="animals" />
+      <node id="temperance" label="temperance" />
+      <node id="corner" label="corner" />
+      <node id="conception" label="conception" />
+      <node id="yearnings" label="yearnings" />
+      <node id="duties" label="duties" />
+      <node id="prison" label="prison" />
+      <node id="st." label="st." />
+      <node id="subjugate" label="subjugate" />
+      <node id="strike" label="strike" />
+      <node id="pictures" label="pictures" />
+      <node id="correspond" label="correspond" />
+      <node id="reconstruction" label="reconstruction" />
+      <node id="estates" label="estates" />
+      <node id="phalansteres" label="phalansteres" />
+      <node id="editions" label="editions" />
+      <node id="charles" label="charles" />
+      <node id="instant" label="instant" />
+      <node id="eve" label="eve" />
+      <node id="prelude" label="prelude" />
+      <node id="leon" label="leon" />
+      <node id="what" label="what" />
+      <node id="lesson" label="lesson" />
+      <node id="contents." label="contents." />
+      <node id="gets" label="gets" />
+      <node id="levi" label="levi" />
+      <node id="how" label="how" />
+      <node id="morton" label="morton" />
+      <node id="got" label="got" />
+      <node id="no" label="no" />
+      <node id="single" label="single" />
+      <node id="slavonic" label="slavonic" />
+      <node id="polish" label="polish" />
+      <node id="finnish" label="finnish" />
+      <node id="note." label="note." />
+      <node id="supplies" label="supplies" />
+      <node id="epitome" label="epitome" />
+      <node id="beginner" label="beginner" />
+      <node id="attaches" label="attaches" />
+      <node id="strikes" label="strikes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="communist" target="sort" />
+      <edge id="1" source="sort" target="crude" />
+      <edge id="2" source="sort" target="rough-hewn" />
+      <edge id="3" source="league" target="continent" />
+      <edge id="4" source="league" target="central" />
+      <edge id="5" source="continent" target="beginning" />
+      <edge id="6" source="central" target="police" />
+      <edge id="7" source="central" target="spies" />
+      <edge id="8" source="workingmen" target="manifesto" />
+      <edge id="9" source="workingmen" target="platform" />
+      <edge id="10" source="workingmen" target="millions" />
+      <edge id="11" source="workingmen" target="siberia" />
+      <edge id="12" source="workingmen" target="california" />
+      <edge id="13" source="manifesto" target="california" />
+      <edge id="14" source="platform" target="siberia" />
+      <edge id="15" source="millions" target="california" />
+      <edge id="16" source="association" target="international" />
+      <edge id="17" source="association" target="body" />
+      <edge id="18" source="international" target="connection" />
+      <edge id="19" source="international" target="towards" />
+      <edge id="20" source="international" target="swansea" />
+      <edge id="21" source="body" target="exertion" />
+      <edge id="22" source="body" target="postage" />
+      <edge id="23" source="german" target="languages" />
+      <edge id="24" source="german" target="french" />
+      <edge id="25" source="german" target="italian" />
+      <edge id="26" source="german" target="flemish" />
+      <edge id="27" source="german" target="danish" />
+      <edge id="28" source="languages" target="italian" />
+      <edge id="29" source="languages" target="flemish" />
+      <edge id="30" source="languages" target="danish" />
+      <edge id="31" source="languages" target="i." />
+      <edge id="32" source="french" target="flemish" />
+      <edge id="33" source="french" target="danish" />
+      <edge id="34" source="french" target="leaflets" />
+      <edge id="35" source="french" target="croatian" />
+      <edge id="36" source="italian" target="flemish" />
+      <edge id="37" source="italian" target="danish" />
+      <edge id="38" source="italian" target="i." />
+      <edge id="39" source="flemish" target="danish" />
+      <edge id="40" source="flemish" target="i." />
+      <edge id="41" source="beginning" target="emancipation" />
+      <edge id="42" source="congress" target="notion" />
+      <edge id="43" source="notion" target="inroads" />
+      <edge id="44" source="london" target="january" />
+      <edge id="45" source="london" target="manuscript" />
+      <edge id="46" source="london" target="printer" />
+      <edge id="47" source="london" target="julian" />
+      <edge id="48" source="london" target="disciple" />
+      <edge id="49" source="january" target="manuscript" />
+      <edge id="50" source="january" target="printer" />
+      <edge id="51" source="january" target="weeks" />
+      <edge id="52" source="january" target="lassalle" />
+      <edge id="53" source="january" target="disciple" />
+      <edge id="54" source="manuscript" target="weeks" />
+      <edge id="55" source="printer" target="drawn" />
+      <edge id="56" source="printer" target="february" />
+      <edge id="57" source="julian" target="miss" />
+      <edge id="58" source="julian" target="helen" />
+      <edge id="59" source="julian" target="george" />
+      <edge id="60" source="julian" target="harney" />
+      <edge id="61" source="julian" target="republican" />
+      <edge id="62" source="november" target="imprisonment" />
+      <edge id="63" source="november" target="october" />
+      <edge id="64" source="november" target="trial" />
+      <edge id="65" source="november" target="till" />
+      <edge id="66" source="november" target="prisoners" />
+      <edge id="67" source="imprisonment" target="till" />
+      <edge id="68" source="imprisonment" target="terms" />
+      <edge id="69" source="imprisonment" target="sentence" />
+      <edge id="70" source="october" target="cologne" />
+      <edge id="71" source="october" target="trial" />
+      <edge id="72" source="october" target="prisoners" />
+      <edge id="73" source="trial" target="prisoners" />
+      <edge id="74" source="trial" target="rule" />
+      <edge id="75" source="trial" target="crises" />
+      <edge id="76" source="till" target="cologne" />
+      <edge id="77" source="till" target="terms" />
+      <edge id="78" source="till" target="return" />
+      <edge id="79" source="prisoners" target="fortress" />
+      <edge id="80" source="marx" target="karl" />
+      <edge id="81" source="marx" target="daughter" />
+      <edge id="82" source="marx" target="eleanor" />
+      <edge id="83" source="karl" target="eleanor" />
+      <edge id="84" source="daughter" target="by" />
+      <edge id="85" source="daughter" target="aveling" />
+      <edge id="86" source="eleanor" target="introduction" />
+      <edge id="87" source="eleanor" target="annotations" />
+      <edge id="88" source="engels" target="publication" />
+      <edge id="89" source="engels" target="theoretical" />
+      <edge id="90" source="engels" target="notes" />
+      <edge id="91" source="engels" target="frederick" />
+      <edge id="92" source="engels" target="florence" />
+      <edge id="93" source="engels" target="wischnewetzky" />
+      <edge id="94" source="publication" target="programme" />
+      <edge id="95" source="theoretical" target="party" />
+      <edge id="96" source="notes" target="frederick" />
+      <edge id="97" source="frederick" target="allusions" />
+      <edge id="98" source="frederick" target="k." />
+      <edge id="99" source="florence" target="k." />
+      <edge id="100" source="florence" target="wischnewetzky" />
+      <edge id="101" source="florence" target="n." />
+      <edge id="102" source="florence" target="y" />
+      <edge id="103" source="wischnewetzky" target="k." />
+      <edge id="104" source="wischnewetzky" target="n." />
+      <edge id="105" source="wischnewetzky" target="y" />
+      <edge id="106" source="party" target="parliament" />
+      <edge id="107" source="parliament" target="louis" />
+      <edge id="108" source="drawn" target="industries" />
+      <edge id="109" source="drawn" target="remotest" />
+      <edge id="110" source="drawn" target="zones" />
+      <edge id="111" source="industries" target="remotest" />
+      <edge id="112" source="industries" target="zones" />
+      <edge id="113" source="remotest" target="products" />
+      <edge id="114" source="zones" target="material" />
+      <edge id="115" source="lassalle" target="ground" />
+      <edge id="116" source="february" target="revolution" />
+      <edge id="117" source="translation" target="version" />
+      <edge id="118" source="translation" target="socialdemokratisk" />
+      <edge id="119" source="translation" target="reprints" />
+      <edge id="120" source="version" target="paris" />
+      <edge id="121" source="version" target="woodhull" />
+      <edge id="122" source="version" target="weekly" />
+      <edge id="123" source="version" target="one" />
+      <edge id="124" source="version" target="socialiste" />
+      <edge id="125" source="version" target="latter" />
+      <edge id="126" source="version" target="madrid" />
+      <edge id="127" source="socialdemokratisk" target="edition" />
+      <edge id="128" source="socialdemokratisk" target="le" />
+      <edge id="129" source="socialdemokratisk" target="bibliothek" />
+      <edge id="130" source="socialdemokratisk" target="copenhagen" />
+      <edge id="131" source="reprints" target="months" />
+      <edge id="132" source="reprints" target="latter" />
+      <edge id="133" source="reprints" target="light" />
+      <edge id="134" source="paris" target="defeat" />
+      <edge id="135" source="paris" target="sections" />
+      <edge id="136" source="paris" target="one" />
+      <edge id="137" source="paris" target="socialiste" />
+      <edge id="138" source="paris" target="madrid" />
+      <edge id="139" source="defeat" target="insurrection" />
+      <edge id="140" source="defeat" target="battle" />
+      <edge id="141" source="defeat" target="cracow" />
+      <edge id="142" source="sections" target="feudalism" />
+      <edge id="143" source="one" target="woodhull" />
+      <edge id="144" source="one" target="claflin" />
+      <edge id="145" source="one" target="le" />
+      <edge id="146" source="socialiste" target="weekly" />
+      <edge id="147" source="socialiste" target="le" />
+      <edge id="148" source="socialiste" target="madrid" />
+      <edge id="149" source="madrid" target="constantinople" />
+      <edge id="150" source="insurrection" target="june" />
+      <edge id="151" source="june" target="edition" />
+      <edge id="152" source="june" target="cracow" />
+      <edge id="153" source="edition" target="heroic" />
+      <edge id="154" source="edition" target="vera" />
+      <edge id="155" source="edition" target="copenhagen" />
+      <edge id="156" source="english" target="proudhonism" />
+      <edge id="157" source="english" target="combinations" />
+      <edge id="158" source="combinations" target="unions" />
+      <edge id="159" source="combinations" target="followers" />
+      <edge id="160" source="combinations" target="connection" />
+      <edge id="161" source="miss" target="helen" />
+      <edge id="162" source="miss" target="macfarlane" />
+      <edge id="163" source="miss" target="george" />
+      <edge id="164" source="helen" target="macfarlane" />
+      <edge id="165" source="helen" target="harney" />
+      <edge id="166" source="macfarlane" target="george" />
+      <edge id="167" source="macfarlane" target="harney" />
+      <edge id="168" source="macfarlane" target="republican" />
+      <edge id="169" source="george" target="republican" />
+      <edge id="170" source="harney" target="republican" />
+      <edge id="171" source="heroic" target="geneva" />
+      <edge id="172" source="heroic" target="vera" />
+      <edge id="173" source="heroic" target="zasulitch" />
+      <edge id="174" source="vera" target="office" />
+      <edge id="175" source="vera" target="geneva" />
+      <edge id="176" source="vera" target="zasulitch" />
+      <edge id="177" source="copenhagen" target="bibliothek" />
+      <edge id="178" source="battle" target="supremacy" />
+      <edge id="179" source="background" target="european" />
+      <edge id="180" source="aspirations" target="oblivion" />
+      <edge id="181" source="oblivion" target="thenceforth" />
+      <edge id="182" source="thenceforth" target="agitation" />
+      <edge id="183" source="thenceforth" target="contest" />
+      <edge id="184" source="thenceforth" target="vocation" />
+      <edge id="185" source="thenceforth" target="aristocracies" />
+      <edge id="186" source="agitation" target="credit" />
+      <edge id="187" source="agitation" target="disturbance" />
+      <edge id="188" source="agitation" target="aristocracies" />
+      <edge id="189" source="contest" target="provision" />
+      <edge id="190" source="contest" target="revolts" />
+      <edge id="191" source="contest" target="riots" />
+      <edge id="192" source="vocation" target="reform" />
+      <edge id="193" source="vocation" target="upstart" />
+      <edge id="194" source="struggle" target="discussion" />
+      <edge id="195" source="discussion" target="vicissitudes" />
+      <edge id="196" source="discussion" target="article" />
+      <edge id="197" source="discussion" target="fluctuations" />
+      <edge id="198" source="feudalism" target="death" />
+      <edge id="199" source="fight" target="fashion" />
+      <edge id="200" source="fight" target="innocence" />
+      <edge id="201" source="fight" target="prussian" />
+      <edge id="202" source="fight" target="must" />
+      <edge id="203" source="fight" target="successfully" />
+      <edge id="204" source="fashion" target="prussian" />
+      <edge id="205" source="must" target="capitalist" />
+      <edge id="206" source="elbow-room" target="middle-class" />
+      <edge id="207" source="elbow-room" target="radicals" />
+      <edge id="208" source="middle-class" target="radicals" />
+      <edge id="209" source="middle-class" target="movements" />
+      <edge id="210" source="middle-class" target="signs" />
+      <edge id="211" source="radicals" target="signs" />
+      <edge id="212" source="radicals" target="police" />
+      <edge id="213" source="radicals" target="czar" />
+      <edge id="214" source="radicals" target="guizot" />
+      <edge id="215" source="position" target="wing" />
+      <edge id="216" source="position" target="inquiry" />
+      <edge id="217" source="wing" target="wherever" />
+      <edge id="218" source="inquiry" target="use" />
+      <edge id="219" source="inquiry" target="economics" />
+      <edge id="220" source="wherever" target="movements" />
+      <edge id="221" source="wherever" target="police" />
+      <edge id="222" source="movements" target="signs" />
+      <edge id="223" source="movements" target="mission" />
+      <edge id="224" source="movements" target="securities" />
+      <edge id="225" source="movements" target="minorities" />
+      <edge id="226" source="signs" target="spies" />
+      <edge id="227" source="police" target="board" />
+      <edge id="228" source="czar" target="alliance" />
+      <edge id="229" source="czar" target="pope" />
+      <edge id="230" source="czar" target="metternich" />
+      <edge id="231" source="czar" target="guizot" />
+      <edge id="232" source="guizot" target="pope" />
+      <edge id="233" source="guizot" target="metternich" />
+      <edge id="234" source="guizot" target="spies" />
+      <edge id="235" source="mission" target="securities" />
+      <edge id="236" source="mission" target="insurances" />
+      <edge id="237" source="securities" target="appropriation" />
+      <edge id="238" source="securities" target="insurances" />
+      <edge id="239" source="spies" target="board" />
+      <edge id="240" source="life" target="celibacy" />
+      <edge id="241" source="life" target="mother" />
+      <edge id="242" source="celibacy" target="poverty" />
+      <edge id="243" source="celibacy" target="mortification" />
+      <edge id="244" source="celibacy" target="flesh" />
+      <edge id="245" source="celibacy" target="mother" />
+      <edge id="246" source="celibacy" target="organizers" />
+      <edge id="247" source="mother" target="mortification" />
+      <edge id="248" source="mother" target="holy" />
+      <edge id="249" source="cologne" target="fortress" />
+      <edge id="250" source="cologne" target="return" />
+      <edge id="251" source="fortress" target="reformer" />
+      <edge id="252" source="return" target="scarce" />
+      <edge id="253" source="return" target="crises" />
+      <edge id="254" source="members" target="action" />
+      <edge id="255" source="members" target="charity" />
+      <edge id="256" source="action" target="gospel" />
+      <edge id="257" source="charity" target="mortification" />
+      <edge id="258" source="charity" target="flesh" />
+      <edge id="259" source="charity" target="prevention" />
+      <edge id="260" source="months" target="constantinople" />
+      <edge id="261" source="months" target="light" />
+      <edge id="262" source="months" target="publisher" />
+      <edge id="263" source="months" target="book" />
+      <edge id="264" source="constantinople" target="publisher" />
+      <edge id="265" source="constantinople" target="book" />
+      <edge id="266" source="light" target="book" />
+      <edge id="267" source="publisher" target="book" />
+      <edge id="268" source="terms" target="sentence" />
+      <edge id="269" source="terms" target="spring" />
+      <edge id="270" source="sentence" target="years" />
+      <edge id="271" source="rule" target="towns" />
+      <edge id="272" source="rule" target="frontier" />
+      <edge id="273" source="rule" target="customs" />
+      <edge id="274" source="crises" target="contending" />
+      <edge id="275" source="crises" target="absurdity" />
+      <edge id="276" source="spring" target="following" />
+      <edge id="277" source="spring" target="simon" />
+      <edge id="278" source="reformer" target="brussels" />
+      <edge id="279" source="reformer" target="preface" />
+      <edge id="280" source="years" target="darwin" />
+      <edge id="281" source="years" target="theory" />
+      <edge id="282" source="years" target="subjection" />
+      <edge id="283" source="darwin" target="theory" />
+      <edge id="284" source="theory" target="opinion" />
+      <edge id="285" source="theory" target="biology" />
+      <edge id="286" source="subjection" target="forces" />
+      <edge id="287" source="working" target="burden" />
+      <edge id="288" source="working" target="gompers" />
+      <edge id="289" source="burden" target="toil" />
+      <edge id="290" source="burden" target="hours" />
+      <edge id="291" source="gompers" target="samuel" />
+      <edge id="292" source="gompers" target="no" />
+      <edge id="293" source="gompers" target="safety" />
+      <edge id="294" source="strength" target="masses" />
+      <edge id="295" source="masses" target="liberty" />
+      <edge id="296" source="attack" target="exertion" />
+      <edge id="297" source="attack" target="number" />
+      <edge id="298" source="attack" target="grows" />
+      <edge id="299" source="exertion" target="number" />
+      <edge id="300" source="exertion" target="grows" />
+      <edge id="301" source="exertion" target="results" />
+      <edge id="302" source="number" target="grows" />
+      <edge id="303" source="number" target="equality" />
+      <edge id="304" source="grows" target="equality" />
+      <edge id="305" source="ruling" target="education" />
+      <edge id="306" source="ruling" target="intervention" />
+      <edge id="307" source="education" target="intervention" />
+      <edge id="308" source="education" target="schools" />
+      <edge id="309" source="education" target="influence" />
+      <edge id="310" source="education" target="co-relation" />
+      <edge id="311" source="education" target="parent" />
+      <edge id="312" source="intervention" target="clap-trap" />
+      <edge id="313" source="connection" target="year" />
+      <edge id="314" source="connection" target="swansea" />
+      <edge id="315" source="towards" target="trades" />
+      <edge id="316" source="towards" target="year" />
+      <edge id="317" source="towards" target="swansea" />
+      <edge id="318" source="towards" target="president" />
+      <edge id="319" source="swansea" target="year" />
+      <edge id="320" source="swansea" target="president" />
+      <edge id="321" source="swansea" target="continental" />
+      <edge id="322" source="workingmen's" target="council" />
+      <edge id="323" source="council" target="textile" />
+      <edge id="324" source="council" target="covers" />
+      <edge id="325" source="express" target="aim" />
+      <edge id="326" source="express" target="europe" />
+      <edge id="327" source="express" target="charges" />
+      <edge id="328" source="express" target="postage" />
+      <edge id="329" source="aim" target="europe" />
+      <edge id="330" source="europe" target="specter" />
+      <edge id="331" source="europe" target="powers" />
+      <edge id="332" source="europe" target="pope" />
+      <edge id="333" source="charges" target="office" />
+      <edge id="334" source="charges" target="general" />
+      <edge id="335" source="postage" target="advance" />
+      <edge id="336" source="postage" target="supplies" />
+      <edge id="337" source="specter" target="powers" />
+      <edge id="338" source="specter" target="alliance" />
+      <edge id="339" source="specter" target="pope" />
+      <edge id="340" source="specter" target="metternich" />
+      <edge id="341" source="specter" target="aims" />
+      <edge id="342" source="specter" target="tendencies" />
+      <edge id="343" source="specter" target="tale" />
+      <edge id="344" source="powers" target="pope" />
+      <edge id="345" source="powers" target="decade" />
+      <edge id="346" source="pope" target="metternich" />
+      <edge id="347" source="america" target="rounding" />
+      <edge id="348" source="america" target="cape" />
+      <edge id="349" source="america" target="east" />
+      <edge id="350" source="rounding" target="ground" />
+      <edge id="351" source="cape" target="ground" />
+      <edge id="352" source="cape" target="discovery" />
+      <edge id="353" source="east" target="markets" />
+      <edge id="354" source="principles" target="is" />
+      <edge id="355" source="is" target="failure" />
+      <edge id="356" source="is" target="strike" />
+      <edge id="357" source="trades" target="unions" />
+      <edge id="358" source="trades" target="proudhon" />
+      <edge id="359" source="unions" target="followers" />
+      <edge id="360" source="proudhon" target="spain" />
+      <edge id="361" source="proudhon" target="example" />
+      <edge id="362" source="proudhon" target="_philosophie" />
+      <edge id="363" source="proudhon" target="misère_" />
+      <edge id="364" source="followers" target="belgium" />
+      <edge id="365" source="followers" target="_philosophie" />
+      <edge id="366" source="followers" target="misère_" />
+      <edge id="367" source="belgium" target="italy" />
+      <edge id="368" source="belgium" target="lassalleans" />
+      <edge id="369" source="_philosophie" target="example" />
+      <edge id="370" source="misère_" target="systems" />
+      <edge id="371" source="misère_" target="example" />
+      <edge id="372" source="spain" target="italy" />
+      <edge id="373" source="example" target="feature" />
+      <edge id="374" source="italy" target="lassalleans" />
+      <edge id="375" source="italy" target="germany" />
+      <edge id="376" source="germany" target="_petty" />
+      <edge id="377" source="_petty" target="interest" />
+      <edge id="378" source="_petty" target="relique" />
+      <edge id="379" source="satisfaction" target="globe" />
+      <edge id="380" source="globe" target="products" />
+      <edge id="381" source="globe" target="surface" />
+      <edge id="382" source="globe" target="connections" />
+      <edge id="383" source="gospel" target="owenites" />
+      <edge id="384" source="gospel" target="blind" />
+      <edge id="385" source="gospel" target="unbelief" />
+      <edge id="386" source="vicissitudes" target="events" />
+      <edge id="387" source="article" target="events" />
+      <edge id="388" source="article" target="fluctuations" />
+      <edge id="389" source="article" target="run" />
+      <edge id="390" source="fluctuations" target="events" />
+      <edge id="391" source="capital" target="p." />
+      <edge id="392" source="p." target="gets" />
+      <edge id="393" source="p." target="levi" />
+      <edge id="394" source="p." target="morton" />
+      <edge id="395" source="p." target="got" />
+      <edge id="396" source="defeats" target="home" />
+      <edge id="397" source="defeats" target="men" />
+      <edge id="398" source="home" target="victories" />
+      <edge id="399" source="home" target="men" />
+      <edge id="400" source="home" target="parents" />
+      <edge id="401" source="home" target="realization" />
+      <edge id="402" source="men" target="nostrums" />
+      <edge id="403" source="men" target="lassalleanism" />
+      <edge id="404" source="men" target="sorts" />
+      <edge id="405" source="parents" target="children" />
+      <edge id="406" source="realization" target="dream" />
+      <edge id="407" source="realization" target="utopias" />
+      <edge id="408" source="realization" target="phalansteres" />
+      <edge id="409" source="nostrums" target="insufficiency" />
+      <edge id="410" source="sorts" target="grievances" />
+      <edge id="411" source="minds" target="insufficiency" />
+      <edge id="412" source="minds" target="way" />
+      <edge id="413" source="minds" target="insight" />
+      <edge id="414" source="insufficiency" target="insight" />
+      <edge id="415" source="way" target="ears" />
+      <edge id="416" source="ears" target="master" />
+      <edge id="417" source="ears" target="revenge" />
+      <edge id="418" source="ears" target="prophecies" />
+      <edge id="419" source="ears" target="catastrophe" />
+      <edge id="420" source="emancipation" target="doubt" />
+      <edge id="421" source="doubt" target="joint" />
+      <edge id="422" source="workers" target="contact" />
+      <edge id="423" source="contact" target="localities" />
+      <edge id="424" source="year" target="president" />
+      <edge id="425" source="year" target="name" />
+      <edge id="426" source="year" target="continental" />
+      <edge id="427" source="president" target="name" />
+      <edge id="428" source="president" target="terrors" />
+      <edge id="429" source="name" target="terrors" />
+      <edge id="430" source="name" target="social-democracy" />
+      <edge id="431" source="social-democracy" target="press" />
+      <edge id="432" source="social-democracy" target="blanc" />
+      <edge id="433" source="fact" target="nobility" />
+      <edge id="434" source="fact" target="proper" />
+      <edge id="435" source="fact" target="corner-stone" />
+      <edge id="436" source="fact" target="monarchies" />
+      <edge id="437" source="fact" target="violent" />
+      <edge id="438" source="nobility" target="proper" />
+      <edge id="439" source="nobility" target="monarchies" />
+      <edge id="440" source="proper" target="monarchy" />
+      <edge id="441" source="proper" target="afterwards" />
+      <edge id="442" source="corner-stone" target="establishment" />
+      <edge id="443" source="headway" target="chains" />
+      <edge id="444" source="countries" target="arena" />
+      <edge id="445" source="countries" target="overlookers" />
+      <edge id="446" source="overlookers" target="bailiffs" />
+      <edge id="447" source="overlookers" target="shopmen" />
+      <edge id="448" source="front" target="switzerland" />
+      <edge id="449" source="front" target="people" />
+      <edge id="450" source="front" target="alms-bag" />
+      <edge id="451" source="front" target="banner" />
+      <edge id="452" source="switzerland" target="times" />
+      <edge id="453" source="switzerland" target="shameless" />
+      <edge id="454" source="switzerland" target="sympathy" />
+      <edge id="455" source="switzerland" target="indictment" />
+      <edge id="456" source="people" target="alms-bag" />
+      <edge id="457" source="people" target="banner" />
+      <edge id="458" source="people" target="hindquarters" />
+      <edge id="459" source="people" target="arms" />
+      <edge id="460" source="people" target="laughter" />
+      <edge id="461" source="alms-bag" target="hindquarters" />
+      <edge id="462" source="alms-bag" target="unfurls" />
+      <edge id="463" source="banner" target="slavery" />
+      <edge id="464" source="banner" target="coats" />
+      <edge id="465" source="banner" target="arms" />
+      <edge id="466" source="times" target="future" />
+      <edge id="467" source="times" target="bitter" />
+      <edge id="468" source="times" target="witty" />
+      <edge id="469" source="times" target="attempts" />
+      <edge id="470" source="future" target="impending" />
+      <edge id="471" source="future" target="witty" />
+      <edge id="472" source="attempts" target="ends" />
+      <edge id="473" source="attempts" target="others" />
+      <edge id="474" source="attempts" target="writings" />
+      <edge id="475" source="shameless" target="regard" />
+      <edge id="476" source="sympathy" target="indictment" />
+      <edge id="477" source="england" target="fourierists" />
+      <edge id="478" source="england" target="bill" />
+      <edge id="479" source="england" target="young" />
+      <edge id="480" source="fourierists" target="adherents" />
+      <edge id="481" source="fourierists" target="unbelief" />
+      <edge id="482" source="fourierists" target="réformistes" />
+      <edge id="483" source="bill" target="divisions" />
+      <edge id="484" source="young" target="laughter" />
+      <edge id="485" source="young" target="infancy" />
+      <edge id="486" source="young" target="initiative" />
+      <edge id="487" source="new" target="york" />
+      <edge id="488" source="new" target="jerusalem" />
+      <edge id="489" source="york" target="claflin" />
+      <edge id="490" source="jerusalem" target="icaria" />
+      <edge id="491" source="jerusalem" target="feelings" />
+      <edge id="492" source="claflin" target="woodhull" />
+      <edge id="493" source="claflin" target="weekly" />
+      <edge id="494" source="woodhull" target="weekly" />
+      <edge id="495" source="weekly" target="le" />
+      <edge id="496" source="le" target="bibliothek" />
+      <edge id="497" source="le" target="latter" />
+      <edge id="498" source="bakounine" target="herzen" />
+      <edge id="499" source="bakounine" target="kolokol" />
+      <edge id="500" source="bakounine" target="office" />
+      <edge id="501" source="herzen" target="kolokol" />
+      <edge id="502" source="kolokol" target="office" />
+      <edge id="503" source="office" target="zasulitch" />
+      <edge id="504" source="office" target="general" />
+      <edge id="505" source="zasulitch" target="geneva" />
+      <edge id="506" source="translator" target="portion" />
+      <edge id="507" source="translator" target="mr." />
+      <edge id="508" source="translator" target="samuel" />
+      <edge id="509" source="portion" target="mr." />
+      <edge id="510" source="portion" target="level" />
+      <edge id="511" source="mr." target="samuel" />
+      <edge id="512" source="samuel" target="moore" />
+      <edge id="513" source="samuel" target="career" />
+      <edge id="514" source="samuel" target="safety" />
+      <edge id="515" source="i." target="_a_" />
+      <edge id="516" source="i." target="w." />
+      <edge id="517" source="movement" target="words" />
+      <edge id="518" source="present" target="iii" />
+      <edge id="519" source="socialist" target="contempt" />
+      <edge id="520" source="contempt" target="tendency" />
+      <edge id="521" source="contempt" target="supreme" />
+      <edge id="522" source="contempt" target="class-struggles" />
+      <edge id="523" source="contempt" target="exceptions" />
+      <edge id="524" source="literature" target="philosophers" />
+      <edge id="525" source="literature" target="conservative" />
+      <edge id="526" source="literature" target="ledru-rollin" />
+      <edge id="527" source="philosophers" target="_beaux" />
+      <edge id="528" source="philosophers" target="esprits_" />
+      <edge id="529" source="philosophers" target="significance" />
+      <edge id="530" source="philosophers" target="aspect" />
+      <edge id="531" source="conservative" target="domain" />
+      <edge id="532" source="conservative" target="belong" />
+      <edge id="533" source="ledru-rollin" target="press" />
+      <edge id="534" source="ledru-rollin" target="blanc" />
+      <edge id="535" source="socialists" target="pedantry" />
+      <edge id="536" source="socialists" target="belief" />
+      <edge id="537" source="pedantry" target="science" />
+      <edge id="538" source="pedantry" target="dethronement" />
+      <edge id="539" source="belief" target="effects" />
+      <edge id="540" source="belief" target="category" />
+      <edge id="541" source="hand" target="danger" />
+      <edge id="542" source="hand" target="spirit" />
+      <edge id="543" source="danger" target="sects" />
+      <edge id="544" source="danger" target="quacks" />
+      <edge id="545" source="danger" target="manners" />
+      <edge id="546" source="spirit" target="b" />
+      <edge id="547" source="adherents" target="unbelief" />
+      <edge id="548" source="unbelief" target="pictures" />
+      <edge id="549" source="systems" target="respects" />
+      <edge id="550" source="systems" target="originators" />
+      <edge id="551" source="respects" target="sects" />
+      <edge id="552" source="respects" target="to-day" />
+      <edge id="553" source="respects" target="ii" />
+      <edge id="554" source="respects" target="case" />
+      <edge id="555" source="respects" target="justification" />
+      <edge id="556" source="originators" target="passage" />
+      <edge id="557" source="originators" target="value" />
+      <edge id="558" source="originators" target="attacks" />
+      <edge id="559" source="originators" target="disciples" />
+      <edge id="560" source="owenites" target="blind" />
+      <edge id="561" source="blind" target="pictures" />
+      <edge id="562" source="réformistes" target="cries" />
+      <edge id="563" source="réformistes" target="restoration" />
+      <edge id="564" source="sects" target="manners" />
+      <edge id="565" source="sects" target="case" />
+      <edge id="566" source="manners" target="quacks" />
+      <edge id="567" source="manners" target="profit" />
+      <edge id="568" source="case" target="misconception" />
+      <edge id="569" source="case" target="disciples" />
+      <edge id="570" source="quacks" target="profit" />
+      <edge id="571" source="profit" target="grievances" />
+      <edge id="572" source="profit" target="cases" />
+      <edge id="573" source="profit" target="by" />
+      <edge id="574" source="grievances" target="cases" />
+      <edge id="575" source="by" target="and" />
+      <edge id="576" source="support" target="earth" />
+      <edge id="577" source="support" target="ideologists" />
+      <edge id="578" source="revolutions" target="conservation" />
+      <edge id="579" source="conservation" target="just" />
+      <edge id="580" source="necessity" target="capitalists" />
+      <edge id="581" source="necessity" target="schemes" />
+      <edge id="582" source="capitalists" target="skill" />
+      <edge id="583" source="capitalists" target="worthless" />
+      <edge id="584" source="capitalists" target="methods" />
+      <edge id="585" source="capitalists" target="schemes" />
+      <edge id="586" source="change" target="past" />
+      <edge id="587" source="past" target="lamentation" />
+      <edge id="588" source="past" target="half" />
+      <edge id="589" source="past" target="lampoon" />
+      <edge id="590" source="past" target="echo" />
+      <edge id="591" source="crude" target="rough-hewn" />
+      <edge id="592" source="crude" target="communism" />
+      <edge id="593" source="crude" target="point" />
+      <edge id="594" source="rough-hewn" target="point" />
+      <edge id="595" source="communism" target="tendency" />
+      <edge id="596" source="point" target="status" />
+      <edge id="597" source="tendency" target="contrary" />
+      <edge id="598" source="tendency" target="class-struggles" />
+      <edge id="599" source="cabet" target="thus" />
+      <edge id="600" source="cabet" target="colony" />
+      <edge id="601" source="inroads" target="self-government" />
+      <edge id="602" source="act" target="names" />
+      <edge id="603" source="names" target="rents" />
+      <edge id="604" source="names" target="floaters" />
+      <edge id="605" source="names" target="joint-stock" />
+      <edge id="606" source="names" target="companies" />
+      <edge id="607" source="joint" target="superiors" />
+      <edge id="608" source="rents" target="distillers" />
+      <edge id="609" source="rents" target="joint-stock" />
+      <edge id="610" source="rents" target="companies" />
+      <edge id="611" source="floaters" target="c" />
+      <edge id="612" source="floaters" target="phalansteres" />
+      <edge id="613" source="floaters" target="joint-stock" />
+      <edge id="614" source="floaters" target="companies" />
+      <edge id="615" source="joint-stock" target="phalansteres" />
+      <edge id="616" source="joint-stock" target="companies" />
+      <edge id="617" source="superiors" target="man" />
+      <edge id="618" source="bound" target="feudal" />
+      <edge id="619" source="bound" target="patriarchal" />
+      <edge id="620" source="bound" target="nexus" />
+      <edge id="621" source="feudal" target="patriarchal" />
+      <edge id="622" source="feudal" target="motley" />
+      <edge id="623" source="nexus" target="man" />
+      <edge id="624" source="state" target="committee" />
+      <edge id="625" source="committee" target="sway" />
+      <edge id="626" source="belongs" target="opinion" />
+      <edge id="627" source="opinion" target="biology" />
+      <edge id="628" source="epoch" target="july" />
+      <edge id="629" source="mode" target="market" />
+      <edge id="630" source="mode" target="step" />
+      <edge id="631" source="mode" target="infancy" />
+      <edge id="632" source="mode" target="initiative" />
+      <edge id="633" source="step" target="tautology" />
+      <edge id="634" source="infancy" target="initiative" />
+      <edge id="635" source="exchange" target="water" />
+      <edge id="636" source="exchange" target="worth" />
+      <edge id="637" source="water" target="enthusiasm" />
+      <edge id="638" source="water" target="icy" />
+      <edge id="639" source="water" target="calculation" />
+      <edge id="640" source="water" target="worth" />
+      <edge id="641" source="water" target="priest" />
+      <edge id="642" source="water" target="aristocrat" />
+      <edge id="643" source="worth" target="icy" />
+      <edge id="644" source="organization" target="india" />
+      <edge id="645" source="organization" target="ireland" />
+      <edge id="646" source="organization" target="communistic" />
+      <edge id="647" source="india" target="communistic" />
+      <edge id="648" source="communistic" target="contrast" />
+      <edge id="649" source="communistic" target="traders" />
+      <edge id="650" source="basis" target="experience" />
+      <edge id="651" source="basis" target="morality" />
+      <edge id="652" source="basis" target="acts" />
+      <edge id="653" source="basis" target="contradiction" />
+      <edge id="654" source="basis" target="accusation" />
+      <edge id="655" source="basis" target="w." />
+      <edge id="656" source="experience" target="morality" />
+      <edge id="657" source="experience" target="acts" />
+      <edge id="658" source="experience" target="contradiction" />
+      <edge id="659" source="experience" target="accusation" />
+      <edge id="660" source="morality" target="contradiction" />
+      <edge id="661" source="acts" target="accusation" />
+      <edge id="662" source="w." target="recognition" />
+      <edge id="663" source="mankind" target="pace" />
+      <edge id="664" source="mankind" target="bonds" />
+      <edge id="665" source="pace" target="sides" />
+      <edge id="666" source="pace" target="bonds" />
+      <edge id="667" source="bonds" target="creations" />
+      <edge id="668" source="bonds" target="extermination" />
+      <edge id="669" source="dissolution" target="gens" />
+      <edge id="670" source="dissolution" target="der" />
+      <edge id="671" source="gens" target="communities" />
+      <edge id="672" source="der" target="ursprung" />
+      <edge id="673" source="der" target="familie" />
+      <edge id="674" source="der" target="privateigenthums" />
+      <edge id="675" source="der" target="und" />
+      <edge id="676" source="land" target="ownership" />
+      <edge id="677" source="land" target="haxthausen" />
+      <edge id="678" source="land" target="russia" />
+      <edge id="679" source="ownership" target="maurer" />
+      <edge id="680" source="haxthausen" target="russia" />
+      <edge id="681" source="russia" target="foundation" />
+      <edge id="682" source="russia" target="teutonic" />
+      <edge id="683" source="maurer" target="foundation" />
+      <edge id="684" source="maurer" target="races" />
+      <edge id="685" source="struggles" target="freeman" />
+      <edge id="686" source="struggles" target="serf" />
+      <edge id="687" source="struggles" target="dangers" />
+      <edge id="688" source="struggles" target="therefrom" />
+      <edge id="689" source="freeman" target="serf" />
+      <edge id="690" source="freeman" target="guildmaster" />
+      <edge id="691" source="serf" target="lord" />
+      <edge id="692" source="serf" target="membership" />
+      <edge id="693" source="contests" target="advantages" />
+      <edge id="694" source="series" target="evolution" />
+      <edge id="695" source="series" target="nowadays" />
+      <edge id="696" source="series" target="stage" />
+      <edge id="697" source="evolution" target="stage" />
+      <edge id="698" source="nowadays" target="stage" />
+      <edge id="699" source="stage" target="remnants" />
+      <edge id="700" source="remnants" target="enemies" />
+      <edge id="701" source="exploitation" target="illusions" />
+      <edge id="702" source="condition" target="philanthropists" />
+      <edge id="703" source="philanthropists" target="economists" />
+      <edge id="704" source="philanthropists" target="humanitarians" />
+      <edge id="705" source="philanthropists" target="improvers" />
+      <edge id="706" source="b" target="parson" />
+      <edge id="707" source="parson" target="sugar" />
+      <edge id="708" source="parson" target="potato" />
+      <edge id="709" source="brussels" target="preface" />
+      <edge id="710" source="brussels" target="owen" />
+      <edge id="711" source="owen" target="st." />
+      <edge id="712" source="owen" target="fourier" />
+      <edge id="713" source="following" target="parsons" />
+      <edge id="714" source="following" target="professors" />
+      <edge id="715" source="following" target="squires" />
+      <edge id="716" source="simon" target="others" />
+      <edge id="717" source="simon" target="fourier" />
+      <edge id="718" source="parsons" target="squires" />
+      <edge id="719" source="professors" target="country" />
+      <edge id="720" source="professors" target="governments" />
+      <edge id="721" source="professors" target="officials" />
+      <edge id="722" source="professors" target="scarecrow" />
+      <edge id="723" source="squires" target="officials" />
+      <edge id="724" source="squires" target="scarecrow" />
+      <edge id="725" source="squires" target="finish" />
+      <edge id="726" source="things" target="attainment" />
+      <edge id="727" source="things" target="relative" />
+      <edge id="728" source="attainment" target="aims" />
+      <edge id="729" source="relative" target="matter" />
+      <edge id="730" source="whole" target="application" />
+      <edge id="731" source="whole" target="hostile" />
+      <edge id="732" source="whole" target="camps" />
+      <edge id="733" source="whole" target="anything" />
+      <edge id="734" source="whole" target="tautology" />
+      <edge id="735" source="application" target="to-day" />
+      <edge id="736" source="anything" target="expression" />
+      <edge id="737" source="anything" target="tautology" />
+      <edge id="738" source="anything" target="chorus" />
+      <edge id="739" source="anything" target="instrument" />
+      <edge id="740" source="tautology" target="expression" />
+      <edge id="741" source="to-day" target="ii" />
+      <edge id="742" source="ii" target="passage" />
+      <edge id="743" source="detail" target="passage" />
+      <edge id="744" source="detail" target="strides" />
+      <edge id="745" source="detail" target="chemistry" />
+      <edge id="746" source="passage" target="strides" />
+      <edge id="747" source="passage" target="disciples" />
+      <edge id="748" source="strides" target="annexation" />
+      <edge id="749" source="chemistry" target="manufactures" />
+      <edge id="750" source="reason" target="measures" />
+      <edge id="751" source="reason" target="constitution" />
+      <edge id="752" source="reason" target="practical" />
+      <edge id="753" source="reason" target="utterances" />
+      <edge id="754" source="measures" target="materials" />
+      <edge id="755" source="practical" target="eyes" />
+      <edge id="756" source="utterances" target="nothing" />
+      <edge id="757" source="utterances" target="demands" />
+      <edge id="758" source="stress" target="peace" />
+      <edge id="759" source="peace" target="thereto" />
+      <edge id="760" source="materials" target="elements" />
+      <edge id="761" source="end" target="motley" />
+      <edge id="762" source="end" target="gain" />
+      <edge id="763" source="end" target="industrial" />
+      <edge id="764" source="gain" target="manufacturer" />
+      <edge id="765" source="industrial" target="the" />
+      <edge id="766" source="section" target="range" />
+      <edge id="767" source="section" target="coats" />
+      <edge id="768" source="section" target="laughter" />
+      <edge id="769" source="section" target="legitimists" />
+      <edge id="770" source="coats" target="hindquarters" />
+      <edge id="771" source="coats" target="arms" />
+      <edge id="772" source="coats" target="laughter" />
+      <edge id="773" source="coats" target="legitimists" />
+      <edge id="774" source="laughter" target="hindquarters" />
+      <edge id="775" source="laughter" target="arms" />
+      <edge id="776" source="legitimists" target="arms" />
+      <edge id="777" source="legitimists" target="spectacle" />
+      <edge id="778" source="justification" target="value" />
+      <edge id="779" source="justification" target="shape" />
+      <edge id="780" source="view" target="wheel" />
+      <edge id="781" source="view" target="impending" />
+      <edge id="782" source="view" target="transfer" />
+      <edge id="783" source="wheel" target="fractions" />
+      <edge id="784" source="wheel" target="impending" />
+      <edge id="785" source="transfer" target="chance" />
+      <edge id="786" source="annexation" target="truelove" />
+      <edge id="787" source="commune" target="d" />
+      <edge id="788" source="commune" target="serfdom" />
+      <edge id="789" source="commune" target="membership" />
+      <edge id="790" source="commune" target="yoke" />
+      <edge id="791" source="d" target="member" />
+      <edge id="792" source="serfdom" target="period" />
+      <edge id="793" source="serfdom" target="petty" />
+      <edge id="794" source="membership" target="yoke" />
+      <edge id="795" source="power" target="reproach" />
+      <edge id="796" source="power" target="use" />
+      <edge id="797" source="power" target="whereas" />
+      <edge id="798" source="use" target="eyesight" />
+      <edge id="799" source="use" target="whereas" />
+      <edge id="800" source="details" target="viz." />
+      <edge id="801" source="details" target="bedford" />
+      <edge id="802" source="details" target="extant" />
+      <edge id="803" source="details" target="study" />
+      <edge id="804" source="viz." target="bedford" />
+      <edge id="805" source="bedford" target="extant" />
+      <edge id="806" source="bedford" target="study" />
+      <edge id="807" source="extant" target="thing" />
+      <edge id="808" source="extant" target="strike" />
+      <edge id="809" source="study" target="thing" />
+      <edge id="810" source="study" target="mass" />
+      <edge id="811" source="thing" target="mass" />
+      <edge id="812" source="machinery" target="demand" />
+      <edge id="813" source="machinery" target="wares" />
+      <edge id="814" source="machinery" target="rob" />
+      <edge id="815" source="demand" target="manufacture" />
+      <edge id="816" source="demand" target="steam" />
+      <edge id="817" source="wares" target="factories" />
+      <edge id="818" source="purposes" target="progressive" />
+      <edge id="819" source="purposes" target="income" />
+      <edge id="820" source="purposes" target="tax" />
+      <edge id="821" source="progressive" target="abolition" />
+      <edge id="822" source="progressive" target="income" />
+      <edge id="823" source="progressive" target="tax" />
+      <edge id="824" source="income" target="tax" />
+      <edge id="825" source="war" target="barbarism" />
+      <edge id="826" source="war" target="famine" />
+      <edge id="827" source="war" target="devastation" />
+      <edge id="828" source="war" target="supply" />
+      <edge id="829" source="barbarism" target="devastation" />
+      <edge id="830" source="famine" target="supply" />
+      <edge id="831" source="address" target="minneapolis" />
+      <edge id="832" source="address" target="minn" />
+      <edge id="833" source="address" target="daniel" />
+      <edge id="834" source="address" target="de" />
+      <edge id="835" source="address" target="subjects" />
+      <edge id="836" source="minneapolis" target="daniel" />
+      <edge id="837" source="minneapolis" target="de" />
+      <edge id="838" source="minneapolis" target="leon" />
+      <edge id="839" source="minneapolis" target="what" />
+      <edge id="840" source="minn" target="daniel" />
+      <edge id="841" source="minn" target="leon" />
+      <edge id="842" source="minn" target="what" />
+      <edge id="843" source="daniel" target="de" />
+      <edge id="844" source="daniel" target="leon" />
+      <edge id="845" source="daniel" target="strike" />
+      <edge id="846" source="de" target="leon" />
+      <edge id="847" source="de" target="what" />
+      <edge id="848" source="textile" target="lesson" />
+      <edge id="849" source="textile" target="covers" />
+      <edge id="850" source="criticism" target="money" />
+      <edge id="851" source="criticism" target="nonsense" />
+      <edge id="852" source="criticism" target="functions" />
+      <edge id="853" source="criticism" target="alienation" />
+      <edge id="854" source="criticism" target="humanity" />
+      <edge id="855" source="criticism" target="forgot" />
+      <edge id="856" source="money" target="moment" />
+      <edge id="857" source="money" target="alienation" />
+      <edge id="858" source="money" target="humanity" />
+      <edge id="859" source="nonsense" target="process" />
+      <edge id="860" source="nonsense" target="original" />
+      <edge id="861" source="nonsense" target="instance" />
+      <edge id="862" source="functions" target="original" />
+      <edge id="863" source="functions" target="humanity" />
+      <edge id="864" source="functions" target="proclamation" />
+      <edge id="865" source="functions" target="proposals" />
+      <edge id="866" source="alienation" target="superintendence" />
+      <edge id="867" source="relation" target="worker" />
+      <edge id="868" source="relation" target="employer" />
+      <edge id="869" source="relation" target="source" />
+      <edge id="870" source="worker" target="profits" />
+      <edge id="871" source="worker" target="employer" />
+      <edge id="872" source="worker" target="source" />
+      <edge id="873" source="employer" target="profits" />
+      <edge id="874" source="employer" target="source" />
+      <edge id="875" source="source" target="profits" />
+      <edge id="876" source="remarks" target="veil" />
+      <edge id="877" source="remarks" target="proletarian" />
+      <edge id="878" source="veil" target="proletarian" />
+      <edge id="879" source="opposition" target="branding" />
+      <edge id="880" source="iv" target="situation" />
+      <edge id="881" source="iv" target="element" />
+      <edge id="882" source="iv" target="utopia" />
+      <edge id="883" source="situation" target="principle" />
+      <edge id="884" source="situation" target="practice" />
+      <edge id="885" source="situation" target="element" />
+      <edge id="886" source="element" target="practice" />
+      <edge id="887" source="principle" target="practice" />
+      <edge id="888" source="progress" target="rise" />
+      <edge id="889" source="rise" target="destruction" />
+      <edge id="890" source="document" target="desire" />
+      <edge id="891" source="document" target="regard" />
+      <edge id="892" source="desire" target="regard" />
+      <edge id="893" source="right" target="inheritance" />
+      <edge id="894" source="right" target="social-democrats" />
+      <edge id="895" source="inheritance" target="emigrants" />
+      <edge id="896" source="career" target="no" />
+      <edge id="897" source="career" target="safety" />
+      <edge id="898" source="safety" target="no" />
+      <edge id="899" source="k." target="n." />
+      <edge id="900" source="k." target="y" />
+      <edge id="901" source="ground" target="canalization" />
+      <edge id="902" source="ground" target="century" />
+      <edge id="903" source="ground" target="lap" />
+      <edge id="904" source="canalization" target="telegraphs" />
+      <edge id="905" source="canalization" target="clearing" />
+      <edge id="906" source="canalization" target="cultivation" />
+      <edge id="907" source="canalization" target="rivers" />
+      <edge id="908" source="canalization" target="populations" />
+      <edge id="909" source="century" target="lap" />
+      <edge id="910" source="century" target="significance" />
+      <edge id="911" source="lap" target="forces" />
+      <edge id="912" source="credit" target="emigrants" />
+      <edge id="913" source="workshops" target="rebels" />
+      <edge id="914" source="rebels" target="centralization" />
+      <edge id="915" source="rebels" target="confiscation" />
+      <edge id="916" source="n." target="y" />
+      <edge id="917" source="n." target="news" />
+      <edge id="918" source="news" target="co." />
+      <edge id="919" source="news" target="city" />
+      <edge id="920" source="news" target="hall" />
+      <edge id="921" source="co." target="city" />
+      <edge id="922" source="co." target="hall" />
+      <edge id="923" source="city" target="hall" />
+      <edge id="924" source="place" target="seclusion" />
+      <edge id="925" source="seclusion" target="lands" />
+      <edge id="926" source="seclusion" target="direction" />
+      <edge id="927" source="seclusion" target="inter-dependence" />
+      <edge id="928" source="the" target="in" />
+      <edge id="929" source="the" target="to" />
+      <edge id="930" source="the" target="various" />
+      <edge id="931" source="the" target="existing" />
+      <edge id="932" source="the" target="preamble" />
+      <edge id="933" source="in" target="various" />
+      <edge id="934" source="to" target="existing" />
+      <edge id="935" source="alliance" target="metternich" />
+      <edge id="936" source="aims" target="views" />
+      <edge id="937" source="aims" target="tendencies" />
+      <edge id="938" source="aims" target="tale" />
+      <edge id="939" source="tale" target="views" />
+      <edge id="940" source="opponents" target="adversaries" />
+      <edge id="941" source="face" target="decay" />
+      <edge id="942" source="decay" target="guilds" />
+      <edge id="943" source="world" target="national" />
+      <edge id="944" source="national" target="become" />
+      <edge id="945" source="national" target="literatures" />
+      <edge id="946" source="nationalities" target="overthrow" />
+      <edge id="947" source="nationalities" target="enforcement" />
+      <edge id="948" source="overthrow" target="motion" />
+      <edge id="949" source="enforcement" target="thereto" />
+      <edge id="950" source="enforcement" target="object" />
+      <edge id="951" source="leaflets" target="slavonic" />
+      <edge id="952" source="leaflets" target="croatian" />
+      <edge id="953" source="leaflets" target="polish" />
+      <edge id="954" source="leaflets" target="finnish" />
+      <edge id="955" source="leaflets" target="swedish" />
+      <edge id="956" source="proletarians" target="disposal" />
+      <edge id="957" source="proletarians" target="centuries" />
+      <edge id="958" source="proletarians" target="thanks" />
+      <edge id="959" source="proletarians" target="pleasure" />
+      <edge id="960" source="disposal" target="wives" />
+      <edge id="961" source="disposal" target="prostitutes" />
+      <edge id="962" source="disposal" target="pleasure" />
+      <edge id="963" source="centuries" target="burghers" />
+      <edge id="964" source="centuries" target="railways" />
+      <edge id="965" source="thanks" target="highways" />
+      <edge id="966" source="pleasure" target="wives" />
+      <edge id="967" source="pleasure" target="daughters" />
+      <edge id="968" source="hitherto" target="halo" />
+      <edge id="969" source="hitherto" target="occupation" />
+      <edge id="970" source="hitherto" target="awe" />
+      <edge id="971" source="hitherto" target="physician" />
+      <edge id="972" source="hitherto" target="lawyer" />
+      <edge id="973" source="halo" target="awe" />
+      <edge id="974" source="occupation" target="physician" />
+      <edge id="975" source="occupation" target="lawyer" />
+      <edge id="976" source="awe" target="physician" />
+      <edge id="977" source="awe" target="lawyer" />
+      <edge id="978" source="awe" target="priest" />
+      <edge id="979" source="awe" target="poet" />
+      <edge id="980" source="physician" target="lawyer" />
+      <edge id="981" source="physician" target="poet" />
+      <edge id="982" source="lawyer" target="priest" />
+      <edge id="983" source="guildmaster" target="c" />
+      <edge id="984" source="guildmaster" target="oppressor" />
+      <edge id="985" source="guildmaster" target="edit." />
+      <edge id="986" source="c" target="oppressor" />
+      <edge id="987" source="c" target="staats" />
+      <edge id="988" source="c" target="stuttgart" />
+      <edge id="989" source="oppressor" target="word" />
+      <edge id="990" source="edit." target="privateigenthums" />
+      <edge id="991" source="edit." target="und" />
+      <edge id="992" source="edit." target="staats" />
+      <edge id="993" source="edit." target="stuttgart" />
+      <edge id="994" source="staats" target="privateigenthums" />
+      <edge id="995" source="staats" target="des" />
+      <edge id="996" source="staats" target="stuttgart" />
+      <edge id="997" source="stuttgart" target="und" />
+      <edge id="998" source="stuttgart" target="des" />
+      <edge id="999" source="journeyman" target="word" />
+      <edge id="1000" source="reconstitution" target="contending" />
+      <edge id="1001" source="reconstitution" target="overproduction" />
+      <edge id="1002" source="contending" target="arrangement" />
+      <edge id="1003" source="contending" target="overproduction" />
+      <edge id="1004" source="overproduction" target="epochs" />
+      <edge id="1005" source="overproduction" target="epidemic" />
+      <edge id="1006" source="overproduction" target="absurdity" />
+      <edge id="1007" source="ruin" target="epochs" />
+      <edge id="1008" source="epochs" target="epidemic" />
+      <edge id="1009" source="arrangement" target="send" />
+      <edge id="1010" source="send" target="cents" />
+      <edge id="1011" source="orders" target="gradation" />
+      <edge id="1012" source="orders" target="rome" />
+      <edge id="1013" source="orders" target="pamphlet" />
+      <edge id="1014" source="gradation" target="rank" />
+      <edge id="1015" source="gradation" target="rome" />
+      <edge id="1016" source="gradation" target="patricians" />
+      <edge id="1017" source="gradation" target="knights" />
+      <edge id="1018" source="rome" target="rank" />
+      <edge id="1019" source="rome" target="patricians" />
+      <edge id="1020" source="rome" target="plebeians" />
+      <edge id="1021" source="pamphlet" target="cents" />
+      <edge id="1022" source="rank" target="knights" />
+      <edge id="1023" source="rank" target="plebeians" />
+      <edge id="1024" source="patricians" target="knights" />
+      <edge id="1025" source="patricians" target="plebeians" />
+      <edge id="1026" source="patricians" target="slaves" />
+      <edge id="1027" source="knights" target="plebeians" />
+      <edge id="1028" source="plebeians" target="slaves" />
+      <edge id="1029" source="slaves" target="hierarchy" />
+      <edge id="1030" source="slaves" target="sergeants" />
+      <edge id="1031" source="hierarchy" target="soldiers" />
+      <edge id="1032" source="hierarchy" target="privates" />
+      <edge id="1033" source="hierarchy" target="command" />
+      <edge id="1034" source="hierarchy" target="officers" />
+      <edge id="1035" source="hierarchy" target="sergeants" />
+      <edge id="1036" source="sergeants" target="army" />
+      <edge id="1037" source="sergeants" target="command" />
+      <edge id="1038" source="sergeants" target="officers" />
+      <edge id="1039" source="ages" target="vigor" />
+      <edge id="1040" source="ages" target="highways" />
+      <edge id="1041" source="ages" target="moves" />
+      <edge id="1042" source="vigor" target="complement" />
+      <edge id="1043" source="vigor" target="indolence" />
+      <edge id="1044" source="moves" target="forms" />
+      <edge id="1045" source="moves" target="consciousness" />
+      <edge id="1046" source="moves" target="multiplicity" />
+      <edge id="1047" source="moves" target="variety" />
+      <edge id="1048" source="lords" target="masters" />
+      <edge id="1049" source="lords" target="journeymen" />
+      <edge id="1050" source="lords" target="estate" />
+      <edge id="1051" source="lords" target="rights" />
+      <edge id="1052" source="masters" target="vassals" />
+      <edge id="1053" source="masters" target="journeymen" />
+      <edge id="1054" source="masters" target="apprentices" />
+      <edge id="1055" source="masters" target="serfs" />
+      <edge id="1056" source="masters" target="estate" />
+      <edge id="1057" source="masters" target="self-government" />
+      <edge id="1058" source="masters" target="rights" />
+      <edge id="1059" source="journeymen" target="serfs" />
+      <edge id="1060" source="journeymen" target="gradations" />
+      <edge id="1061" source="estate" target="rights" />
+      <edge id="1062" source="vassals" target="apprentices" />
+      <edge id="1063" source="vassals" target="serfs" />
+      <edge id="1064" source="apprentices" target="serfs" />
+      <edge id="1065" source="apprentices" target="gradations" />
+      <edge id="1066" source="gradations" target="burghers" />
+      <edge id="1067" source="ruins" target="atmosphere" />
+      <edge id="1068" source="antagonisms" target="differences" />
+      <edge id="1069" source="antagonisms" target="vanishing" />
+      <edge id="1070" source="antagonisms" target="dream" />
+      <edge id="1071" source="antagonisms" target="utopias" />
+      <edge id="1072" source="differences" target="validity" />
+      <edge id="1073" source="differences" target="sooner" />
+      <edge id="1074" source="differences" target="vanishing" />
+      <edge id="1075" source="differences" target="thousand" />
+      <edge id="1076" source="differences" target="lieutenants" />
+      <edge id="1077" source="dream" target="utopias" />
+      <edge id="1078" source="dream" target="phalansteres" />
+      <edge id="1079" source="utopias" target="phalansteres" />
+      <edge id="1080" source="forms" target="multiplicity" />
+      <edge id="1081" source="forms" target="variety" />
+      <edge id="1082" source="forms" target="bourgeois_" />
+      <edge id="1083" source="multiplicity" target="variety" />
+      <edge id="1084" source="variety" target="consciousness" />
+      <edge id="1085" source="bourgeois_" target="philistines" />
+      <edge id="1086" source="ones" target="ancient" />
+      <edge id="1087" source="ones" target="prejudices" />
+      <edge id="1088" source="ones" target="opinions" />
+      <edge id="1089" source="ones" target="melts" />
+      <edge id="1090" source="ancient" target="prejudices" />
+      <edge id="1091" source="ancient" target="melts" />
+      <edge id="1092" source="prejudices" target="train" />
+      <edge id="1093" source="prejudices" target="opinions" />
+      <edge id="1094" source="prejudices" target="melts" />
+      <edge id="1095" source="prejudices" target="lurk" />
+      <edge id="1096" source="prejudices" target="ambush" />
+      <edge id="1097" source="opinions" target="train" />
+      <edge id="1098" source="melts" target="senses" />
+      <edge id="1099" source="melts" target="substance" />
+      <edge id="1100" source="possesses" target="all" />
+      <edge id="1101" source="possesses" target="favor" />
+      <edge id="1102" source="all" target="favor" />
+      <edge id="1103" source="burgesses" target="peasant" />
+      <edge id="1104" source="burgesses" target="precursors" />
+      <edge id="1105" source="peasant" target="proprietors" />
+      <edge id="1106" source="peasant" target="precursors" />
+      <edge id="1107" source="elements" target="poland" />
+      <edge id="1108" source="discovery" target="nature" />
+      <edge id="1109" source="discovery" target="bare" />
+      <edge id="1110" source="discovery" target="tribe" />
+      <edge id="1111" source="nature" target="mechanism" />
+      <edge id="1112" source="markets" target="workshop" />
+      <edge id="1113" source="markets" target="thereupon" />
+      <edge id="1114" source="workshop" target="manufacture" />
+      <edge id="1115" source="workshop" target="thereupon" />
+      <edge id="1116" source="thereupon" target="manufacture" />
+      <edge id="1117" source="colonization" target="west" />
+      <edge id="1118" source="colonies" target="plan" />
+      <edge id="1119" source="colonies" target="fourier" />
+      <edge id="1120" source="colonies" target="icaria" />
+      <edge id="1121" source="plan" target="establishment" />
+      <edge id="1122" source="plan" target="improvement" />
+      <edge id="1123" source="plan" target="soil" />
+      <edge id="1124" source="plan" target="accordance" />
+      <edge id="1125" source="plan" target="liability" />
+      <edge id="1126" source="plan" target="icaria" />
+      <edge id="1127" source="fourier" target="st." />
+      <edge id="1128" source="increase" target="toil" />
+      <edge id="1129" source="increase" target="prolongation" />
+      <edge id="1130" source="toil" target="prolongation" />
+      <edge id="1131" source="toil" target="hours" />
+      <edge id="1132" source="toil" target="do" />
+      <edge id="1133" source="toil" target="poverty" />
+      <edge id="1134" source="toil" target="luxury" />
+      <edge id="1135" source="prolongation" target="proportion" />
+      <edge id="1136" source="means" target="communication" />
+      <edge id="1137" source="means" target="fruit" />
+      <edge id="1138" source="communication" target="hands" />
+      <edge id="1139" source="communication" target="fruit" />
+      <edge id="1140" source="communication" target="battles" />
+      <edge id="1141" source="fruit" target="battles" />
+      <edge id="1142" source="fruit" target="result" />
+      <edge id="1143" source="commodities" target="civilization" />
+      <edge id="1144" source="commodities" target="prices" />
+      <edge id="1145" source="commodities" target="artillery" />
+      <edge id="1146" source="commodities" target="walls" />
+      <edge id="1147" source="commodities" target="barbarians" />
+      <edge id="1148" source="commodities" target="foreigners" />
+      <edge id="1149" source="civilization" target="artillery" />
+      <edge id="1150" source="civilization" target="_i.e._" />
+      <edge id="1151" source="prices" target="walls" />
+      <edge id="1152" source="prices" target="barbarians" />
+      <edge id="1153" source="artillery" target="nations" />
+      <edge id="1154" source="artillery" target="walls" />
+      <edge id="1155" source="artillery" target="barbarians" />
+      <edge id="1156" source="artillery" target="foreigners" />
+      <edge id="1157" source="walls" target="nations" />
+      <edge id="1158" source="walls" target="barbarians" />
+      <edge id="1159" source="walls" target="foreigners" />
+      <edge id="1160" source="walls" target="pain" />
+      <edge id="1161" source="barbarians" target="foreigners" />
+      <edge id="1162" source="barbarians" target="pain" />
+      <edge id="1163" source="foreigners" target="nations" />
+      <edge id="1164" source="foreigners" target="extinction" />
+      <edge id="1165" source="navigation" target="railways" />
+      <edge id="1166" source="navigation" target="clearing" />
+      <edge id="1167" source="navigation" target="continents" />
+      <edge id="1168" source="railways" target="telegraphs" />
+      <edge id="1169" source="railways" target="clearing" />
+      <edge id="1170" source="railways" target="continents" />
+      <edge id="1171" source="clearing" target="telegraphs" />
+      <edge id="1172" source="clearing" target="continents" />
+      <edge id="1173" source="continents" target="telegraphs" />
+      <edge id="1174" source="continents" target="cultivation" />
+      <edge id="1175" source="continents" target="rivers" />
+      <edge id="1176" source="continents" target="populations" />
+      <edge id="1177" source="system" target="wage" />
+      <edge id="1178" source="system" target="conversion" />
+      <edge id="1179" source="wage" target="antagonism" />
+      <edge id="1180" source="wage" target="conversion" />
+      <edge id="1181" source="conversion" target="harmony" />
+      <edge id="1182" source="guilds" target="forbidden" />
+      <edge id="1183" source="guilds" target="opportunity" />
+      <edge id="1184" source="forbidden" target="ways" />
+      <edge id="1185" source="forbidden" target="share" />
+      <edge id="1186" source="manufacturing" target="side" />
+      <edge id="1187" source="manufacturing" target="manufactures" />
+      <edge id="1188" source="manufactures" target="revolt" />
+      <edge id="1189" source="division" target="destruction" />
+      <edge id="1190" source="destruction" target="conquest" />
+      <edge id="1191" source="manufacture" target="steam" />
+      <edge id="1192" source="manufacture" target="monarchy" />
+      <edge id="1193" source="manufacture" target="period" />
+      <edge id="1194" source="manufacture" target="counterpoise" />
+      <edge id="1195" source="monarchy" target="period" />
+      <edge id="1196" source="monarchy" target="counterpoise" />
+      <edge id="1197" source="monarchy" target="enemies" />
+      <edge id="1198" source="period" target="counterpoise" />
+      <edge id="1199" source="giant" target="afterwards" />
+      <edge id="1200" source="modern" target="failure" />
+      <edge id="1201" source="modern" target="usually" />
+      <edge id="1202" source="failure" target="force" />
+      <edge id="1203" source="failure" target="endeavor" />
+      <edge id="1204" source="failure" target="strike" />
+      <edge id="1205" source="failure" target="usually" />
+      <edge id="1206" source="usually" target="strike" />
+      <edge id="1207" source="millionaires" target="armies" />
+      <edge id="1208" source="millionaires" target="combination" />
+      <edge id="1209" source="armies" target="leaders" />
+      <edge id="1210" source="combination" target="leaders" />
+      <edge id="1211" source="immense" target="revolt" />
+      <edge id="1212" source="immense" target="conclusions" />
+      <edge id="1213" source="immense" target="uniformity" />
+      <edge id="1214" source="revolt" target="total" />
+      <edge id="1215" source="conclusions" target="pressure" />
+      <edge id="1216" source="commerce" target="agriculture" />
+      <edge id="1217" source="commerce" target="shopmen" />
+      <edge id="1218" source="agriculture" target="self-deception" />
+      <edge id="1219" source="shopmen" target="bailiffs" />
+      <edge id="1220" source="hands" target="monopoly" />
+      <edge id="1221" source="turn" target="factories" />
+      <edge id="1222" source="proportion" target="increases" />
+      <edge id="1223" source="increases" target="fractions" />
+      <edge id="1224" source="telegraphs" target="cultivation" />
+      <edge id="1225" source="product" target="over-seer" />
+      <edge id="1226" source="product" target="despotism" />
+      <edge id="1227" source="product" target="artisan" />
+      <edge id="1228" source="product" target="resort" />
+      <edge id="1229" source="over-seer" target="despotism" />
+      <edge id="1230" source="over-seer" target="artisan" />
+      <edge id="1231" source="artisan" target="landlord" />
+      <edge id="1232" source="artisan" target="pawnbroker" />
+      <edge id="1233" source="course" target="phases" />
+      <edge id="1234" source="advance" target="isolation" />
+      <edge id="1235" source="medieval" target="proprietors" />
+      <edge id="1236" source="member" target="guild" />
+      <edge id="1237" source="member" target="head" />
+      <edge id="1238" source="republic" target="cents" />
+      <edge id="1239" source="republic" target="copies" />
+      <edge id="1240" source="cents" target="copies" />
+      <edge id="1241" source="copies" target="single" />
+      <edge id="1242" source="establishment" target="accordance" />
+      <edge id="1243" source="accordance" target="lands" />
+      <edge id="1244" source="accordance" target="improvement" />
+      <edge id="1245" source="executive" target="affairs" />
+      <edge id="1246" source="part" target="tool" />
+      <edge id="1247" source="part" target="intrigue" />
+      <edge id="1248" source="part" target="sale" />
+      <edge id="1249" source="sale" target="truths" />
+      <edge id="1250" source="sale" target="sorry" />
+      <edge id="1251" source="sale" target="bone" />
+      <edge id="1252" source="sale" target="goods" />
+      <edge id="1253" source="sale" target="public" />
+      <edge id="1254" source="relations" target="reforms" />
+      <edge id="1255" source="man" target="philistine" />
+      <edge id="1256" source="man" target="model" />
+      <edge id="1257" source="philistine" target="model" />
+      <edge id="1258" source="philistine" target="meanness" />
+      <edge id="1259" source="model" target="representative" />
+      <edge id="1260" source="model" target="interpretation" />
+      <edge id="1261" source="model" target="contrary" />
+      <edge id="1262" source="cash" target="payment" />
+      <edge id="1263" source="cash" target="ecstacies" />
+      <edge id="1264" source="cash" target="fervor" />
+      <edge id="1265" source="cash" target="enthusiasm" />
+      <edge id="1266" source="payment" target="ecstacies" />
+      <edge id="1267" source="payment" target="fervor" />
+      <edge id="1268" source="payment" target="enthusiasm" />
+      <edge id="1269" source="payment" target="sentimentalism" />
+      <edge id="1270" source="ecstacies" target="fervor" />
+      <edge id="1271" source="ecstacies" target="sentimentalism" />
+      <edge id="1272" source="ecstacies" target="icy" />
+      <edge id="1273" source="fervor" target="enthusiasm" />
+      <edge id="1274" source="fervor" target="icy" />
+      <edge id="1275" source="enthusiasm" target="sentimentalism" />
+      <edge id="1276" source="enthusiasm" target="calculation" />
+      <edge id="1277" source="sentimentalism" target="icy" />
+      <edge id="1278" source="sentimentalism" target="calculation" />
+      <edge id="1279" source="calculation" target="value" />
+      <edge id="1280" source="priest" target="poet" />
+      <edge id="1281" source="priest" target="heart-burnings" />
+      <edge id="1282" source="priest" target="_b_" />
+      <edge id="1283" source="aristocrat" target="heart-burnings" />
+      <edge id="1284" source="aristocrat" target="_b_" />
+      <edge id="1285" source="value" target="freedoms" />
+      <edge id="1286" source="freedoms" target="freedom" />
+      <edge id="1287" source="freedom" target="states" />
+      <edge id="1288" source="states" target="truths" />
+      <edge id="1289" source="states" target="justice" />
+      <edge id="1290" source="states" target="etc." />
+      <edge id="1291" source="heart-burnings" target="_b_" />
+      <edge id="1292" source="laborers" target="factory" />
+      <edge id="1293" source="laborers" target="operatives" />
+      <edge id="1294" source="laborers" target="promoter" />
+      <edge id="1295" source="factory" target="soldiers" />
+      <edge id="1296" source="factory" target="army" />
+      <edge id="1297" source="factory" target="workpeople" />
+      <edge id="1298" source="factory" target="operatives" />
+      <edge id="1299" source="factory" target="locality" />
+      <edge id="1300" source="operatives" target="attacks" />
+      <edge id="1301" source="promoter" target="competition" />
+      <edge id="1302" source="moment" target="person" />
+      <edge id="1303" source="moment" target="vanishes" />
+      <edge id="1304" source="display" target="admire" />
+      <edge id="1305" source="admire" target="complement" />
+      <edge id="1306" source="admire" target="activity" />
+      <edge id="1307" source="complement" target="indolence" />
+      <edge id="1308" source="activity" target="wonders" />
+      <edge id="1309" source="activity" target="roman" />
+      <edge id="1310" source="activity" target="independence" />
+      <edge id="1311" source="wonders" target="pyramids" />
+      <edge id="1312" source="wonders" target="roman" />
+      <edge id="1313" source="wonders" target="gothic" />
+      <edge id="1314" source="wonders" target="cathedrals" />
+      <edge id="1315" source="roman" target="pyramids" />
+      <edge id="1316" source="roman" target="gothic" />
+      <edge id="1317" source="roman" target="expeditions" />
+      <edge id="1318" source="independence" target="do" />
+      <edge id="1319" source="pyramids" target="cathedrals" />
+      <edge id="1320" source="gothic" target="cathedrals" />
+      <edge id="1321" source="gothic" target="shade" />
+      <edge id="1322" source="cathedrals" target="expeditions" />
+      <edge id="1323" source="cathedrals" target="exoduses" />
+      <edge id="1324" source="expeditions" target="shade" />
+      <edge id="1325" source="expeditions" target="crusades" />
+      <edge id="1326" source="shade" target="exoduses" />
+      <edge id="1327" source="shade" target="crusades" />
+      <edge id="1328" source="exoduses" target="nations" />
+      <edge id="1329" source="nations" target="pain" />
+      <edge id="1330" source="pain" target="fractions" />
+      <edge id="1331" source="instruments" target="pieces" />
+      <edge id="1332" source="instruments" target="lot" />
+      <edge id="1333" source="lot" target="fall" />
+      <edge id="1334" source="just" target="care" />
+      <edge id="1335" source="revolutionizing" target="uncertainty" />
+      <edge id="1336" source="senses" target="substance" />
+      <edge id="1337" source="air" target="degrees" />
+      <edge id="1338" source="air" target="castles" />
+      <edge id="1339" source="air" target="feelings" />
+      <edge id="1340" source="air" target="purses" />
+      <edge id="1341" source="degrees" target="dethronement" />
+      <edge id="1342" source="degrees" target="feelings" />
+      <edge id="1343" source="castles" target="purses" />
+      <edge id="1344" source="kind" target="fanatics" />
+      <edge id="1345" source="kind" target="hole" />
+      <edge id="1346" source="kind" target="reformers" />
+      <edge id="1347" source="fanatics" target="cruelty" />
+      <edge id="1348" source="fanatics" target="temperance" />
+      <edge id="1349" source="fanatics" target="hole" />
+      <edge id="1350" source="fanatics" target="corner" />
+      <edge id="1351" source="fanatics" target="reformers" />
+      <edge id="1352" source="hole" target="animals" />
+      <edge id="1353" source="hole" target="corner" />
+      <edge id="1354" source="hole" target="reformers" />
+      <edge id="1355" source="reformers" target="temperance" />
+      <edge id="1356" source="reformers" target="corner" />
+      <edge id="1357" source="need" target="substitution" />
+      <edge id="1358" source="need" target="surroundings" />
+      <edge id="1359" source="substitution" target="daughters" />
+      <edge id="1360" source="substitution" target="marriage" />
+      <edge id="1361" source="surroundings" target="guild" />
+      <edge id="1362" source="products" target="connections" />
+      <edge id="1363" source="connections" target="quarter" />
+      <edge id="1364" source="connections" target="productions" />
+      <edge id="1365" source="surface" target="quarter" />
+      <edge id="1366" source="surface" target="productions" />
+      <edge id="1367" source="quarter" target="productions" />
+      <edge id="1368" source="character" target="hidden" />
+      <edge id="1369" source="character" target="contrary" />
+      <edge id="1370" source="character" target="length" />
+      <edge id="1371" source="hidden" target="interpretation" />
+      <edge id="1372" source="hidden" target="contrary" />
+      <edge id="1373" source="hidden" target="length" />
+      <edge id="1374" source="contrary" target="interpretation" />
+      <edge id="1375" source="length" target="interpretation" />
+      <edge id="1376" source="length" target="supreme" />
+      <edge id="1377" source="consumption" target="reactionists" />
+      <edge id="1378" source="consumption" target="feet" />
+      <edge id="1379" source="reactionists" target="feet" />
+      <edge id="1380" source="feet" target="volume" />
+      <edge id="1381" source="feet" target="economics" />
+      <edge id="1382" source="feet" target="threshold" />
+      <edge id="1383" source="feet" target="faculties" />
+      <edge id="1384" source="country" target="chagrin" />
+      <edge id="1385" source="volume" target="lucien" />
+      <edge id="1386" source="volume" target="epitome" />
+      <edge id="1387" source="volume" target="beginner" />
+      <edge id="1388" source="volume" target="economics" />
+      <edge id="1389" source="volume" target="threshold" />
+      <edge id="1390" source="economics" target="epitome" />
+      <edge id="1391" source="economics" target="beginner" />
+      <edge id="1392" source="threshold" target="beginner" />
+      <edge id="1393" source="threshold" target="faculties" />
+      <edge id="1394" source="introduction" target="philosophy" />
+      <edge id="1395" source="introduction" target="criticisms" />
+      <edge id="1396" source="introduction" target="aveling" />
+      <edge id="1397" source="introduction" target="annotations" />
+      <edge id="1398" source="introduction" target="sanial" />
+      <edge id="1399" source="philosophy" target="phrases" />
+      <edge id="1400" source="philosophy" target="back" />
+      <edge id="1401" source="philosophy" target="criticisms" />
+      <edge id="1402" source="criticisms" target="phrases" />
+      <edge id="1403" source="aveling" target="lucien" />
+      <edge id="1404" source="aveling" target="sanial" />
+      <edge id="1405" source="sanial" target="lucien" />
+      <edge id="1406" source="sanial" target="epitome" />
+      <edge id="1407" source="sanial" target="beginner" />
+      <edge id="1408" source="death" target="degree" />
+      <edge id="1409" source="degree" target="question" />
+      <edge id="1410" source="degree" target="prostitution" />
+      <edge id="1411" source="degree" target="understanding" />
+      <edge id="1412" source="question" target="matter" />
+      <edge id="1413" source="material" target="self-sufficiency" />
+      <edge id="1414" source="self-sufficiency" target="climes" />
+      <edge id="1415" source="self-sufficiency" target="direction" />
+      <edge id="1416" source="lands" target="improvement" />
+      <edge id="1417" source="lands" target="bringing" />
+      <edge id="1418" source="improvement" target="collisions" />
+      <edge id="1419" source="improvement" target="bringing" />
+      <edge id="1420" source="improvement" target="soil" />
+      <edge id="1421" source="improvement" target="liability" />
+      <edge id="1422" source="bringing" target="cultivation" />
+      <edge id="1423" source="climes" target="direction" />
+      <edge id="1424" source="direction" target="inter-dependence" />
+      <edge id="1425" source="collisions" target="workman" />
+      <edge id="1426" source="collisions" target="ten-hours" />
+      <edge id="1427" source="soil" target="liability" />
+      <edge id="1428" source="_i.e._" target="subsistence" />
+      <edge id="1429" source="extinction" target="nay" />
+      <edge id="1430" source="nay" target="repulsiveness" />
+      <edge id="1431" source="nay" target="chance" />
+      <edge id="1432" source="midst" target="image" />
+      <edge id="1433" source="midst" target="bit" />
+      <edge id="1434" source="midst" target="phrase" />
+      <edge id="1435" source="image" target="phrase" />
+      <edge id="1436" source="bit" target="quantum" />
+      <edge id="1437" source="bit" target="prostitution" />
+      <edge id="1438" source="phrase" target="conceptions" />
+      <edge id="1439" source="subsistence" target="maintenance" />
+      <edge id="1440" source="subsistence" target="race" />
+      <edge id="1441" source="subsistence" target="price" />
+      <edge id="1442" source="frontier" target="customs" />
+      <edge id="1443" source="frontier" target="tariff" />
+      <edge id="1444" source="customs" target="tariff" />
+      <edge id="1445" source="cities" target="idiocy" />
+      <edge id="1446" source="cities" target="dependent" />
+      <edge id="1447" source="cities" target="scarce" />
+      <edge id="1448" source="idiocy" target="ranks" />
+      <edge id="1449" source="idiocy" target="nine-tenths" />
+      <edge id="1450" source="idiocy" target="a" />
+      <edge id="1451" source="population" target="pauper" />
+      <edge id="1452" source="population" target="pauperism" />
+      <edge id="1453" source="pauper" target="wealth" />
+      <edge id="1454" source="ranks" target="individual" />
+      <edge id="1455" source="nine-tenths" target="non-existence" />
+      <edge id="1456" source="a" target="understanding" />
+      <edge id="1457" source="peasants" target="trades-people" />
+      <edge id="1458" source="peasants" target="shopkeepers" />
+      <edge id="1459" source="peasants" target="tradesmen" />
+      <edge id="1460" source="peasants" target="handicraftsmen" />
+      <edge id="1461" source="trades-people" target="shopkeepers" />
+      <edge id="1462" source="trades-people" target="tradesmen" />
+      <edge id="1463" source="trades-people" target="handicraftsmen" />
+      <edge id="1464" source="shopkeepers" target="strata" />
+      <edge id="1465" source="shopkeepers" target="tradesmen" />
+      <edge id="1466" source="shopkeepers" target="handicraftsmen" />
+      <edge id="1467" source="tradesmen" target="strata" />
+      <edge id="1468" source="tradesmen" target="handicraftsmen" />
+      <edge id="1469" source="monopoly" target="provinces" />
+      <edge id="1470" source="consequence" target="provinces" />
+      <edge id="1471" source="consequence" target="union" />
+      <edge id="1472" source="provinces" target="centralization" />
+      <edge id="1473" source="provinces" target="interests" />
+      <edge id="1474" source="union" target="bodies" />
+      <edge id="1475" source="centralization" target="independent" />
+      <edge id="1476" source="independent" target="laws" />
+      <edge id="1477" source="independent" target="bodies" />
+      <edge id="1478" source="laws" target="pure" />
+      <edge id="1479" source="bodies" target="agreement" />
+      <edge id="1480" source="pure" target="_literati_" />
+      <edge id="1481" source="governments" target="true" />
+      <edge id="1482" source="governments" target="pills" />
+      <edge id="1483" source="governments" target="bullets" />
+      <edge id="1484" source="pills" target="scarecrow" />
+      <edge id="1485" source="pills" target="finish" />
+      <edge id="1486" source="pills" target="floggings" />
+      <edge id="1487" source="pills" target="bullets" />
+      <edge id="1488" source="bullets" target="finish" />
+      <edge id="1489" source="bullets" target="floggings" />
+      <edge id="1490" source="taxation" target="code" />
+      <edge id="1491" source="taxation" target="risings" />
+      <edge id="1492" source="taxation" target="weapon" />
+      <edge id="1493" source="taxation" target="founders" />
+      <edge id="1494" source="code" target="weapon" />
+      <edge id="1495" source="code" target="search" />
+      <edge id="1496" source="nation" target="vanishes" />
+      <edge id="1497" source="nation" target="representative" />
+      <edge id="1498" source="nation" target="meanness" />
+      <edge id="1499" source="vanishes" target="person" />
+      <edge id="1500" source="representative" target="meanness" />
+      <edge id="1501" source="government" target="demands" />
+      <edge id="1502" source="government" target="anathemas" />
+      <edge id="1503" source="government" target="liberalism" />
+      <edge id="1504" source="demands" target="anathemas" />
+      <edge id="1505" source="demands" target="liberalism" />
+      <edge id="1506" source="search" target="philosophical" />
+      <edge id="1507" source="interest" target="tariff" />
+      <edge id="1508" source="forces" target="generations" />
+      <edge id="1509" source="forces" target="presentiment" />
+      <edge id="1510" source="mechanism" target="work" />
+      <edge id="1511" source="mechanism" target="stock" />
+      <edge id="1512" source="self-deception" target="effects" />
+      <edge id="1513" source="cultivation" target="populations" />
+      <edge id="1514" source="cultivation" target="waste" />
+      <edge id="1515" source="rivers" target="populations" />
+      <edge id="1516" source="foundation" target="teutonic" />
+      <edge id="1517" source="foundation" target="village" />
+      <edge id="1518" source="foundation" target="flare" />
+      <edge id="1519" source="teutonic" target="village" />
+      <edge id="1520" source="fetters" target="asunder" />
+      <edge id="1521" source="fetters" target="ties" />
+      <edge id="1522" source="ties" target="into" />
+      <edge id="1523" source="ties" target="articles" />
+      <edge id="1524" source="into" target="disorder" />
+      <edge id="1525" source="into" target="articles" />
+      <edge id="1526" source="eyes" target="formation" />
+      <edge id="1527" source="eyes" target="inventors" />
+      <edge id="1528" source="eyes" target="resolves" />
+      <edge id="1529" source="eyes" target="propaganda" />
+      <edge id="1530" source="eyes" target="plans" />
+      <edge id="1531" source="formation" target="resolves" />
+      <edge id="1532" source="formation" target="plans" />
+      <edge id="1533" source="inventors" target="propaganda" />
+      <edge id="1534" source="inventors" target="reforme" />
+      <edge id="1535" source="inventors" target="subjugate" />
+      <edge id="1536" source="resolves" target="plans" />
+      <edge id="1537" source="propaganda" target="plans" />
+      <edge id="1538" source="propaganda" target="chiefly" />
+      <edge id="1539" source="plans" target="augmentation" />
+      <edge id="1540" source="plans" target="chiefly" />
+      <edge id="1541" source="sorcerer" target="spells" />
+      <edge id="1542" source="total" target="ways" />
+      <edge id="1543" source="maintenance" target="commodity" />
+      <edge id="1544" source="maintenance" target="propagation" />
+      <edge id="1545" source="maintenance" target="race" />
+      <edge id="1546" source="maintenance" target="price" />
+      <edge id="1547" source="maintenance" target="appropriation" />
+      <edge id="1548" source="maintenance" target="surplus" />
+      <edge id="1549" source="race" target="price" />
+      <edge id="1550" source="race" target="run" />
+      <edge id="1551" source="price" target="commodity" />
+      <edge id="1552" source="price" target="propagation" />
+      <edge id="1553" source="wives" target="prostitutes" />
+      <edge id="1554" source="prostitutes" target="daughters" />
+      <edge id="1555" source="wealth" target="distribution" />
+      <edge id="1556" source="wealth" target="anarchy" />
+      <edge id="1557" source="distribution" target="anarchy" />
+      <edge id="1558" source="distribution" target="extermination" />
+      <edge id="1559" source="get" target="extermination" />
+      <edge id="1560" source="work" target="stock" />
+      <edge id="1561" source="work" target="corporation" />
+      <edge id="1562" source="stock" target="capitalist" />
+      <edge id="1563" source="stock" target="corporation" />
+      <edge id="1564" source="stock" target="directors" />
+      <edge id="1565" source="stock" target="corporations" />
+      <edge id="1566" source="stock" target="accumulation" />
+      <edge id="1567" source="corporation" target="capitalist" />
+      <edge id="1568" source="commodity" target="cost" />
+      <edge id="1569" source="commodity" target="propagation" />
+      <edge id="1570" source="cost" target="appendage" />
+      <edge id="1571" source="cost" target="machine" />
+      <edge id="1572" source="cost" target="hence" />
+      <edge id="1573" source="eyesight" target="capitalist" />
+      <edge id="1574" source="charm" target="workman" />
+      <edge id="1575" source="charm" target="machine" />
+      <edge id="1576" source="charm" target="knack" />
+      <edge id="1577" source="workman" target="appendage" />
+      <edge id="1578" source="workman" target="knack" />
+      <edge id="1579" source="machine" target="appendage" />
+      <edge id="1580" source="machine" target="knack" />
+      <edge id="1581" source="machine" target="loss" />
+      <edge id="1582" source="appendage" target="hence" />
+      <edge id="1583" source="hence" target="enlightenment" />
+      <edge id="1584" source="loss" target="majority" />
+      <edge id="1585" source="appropriation" target="insurances" />
+      <edge id="1586" source="appropriation" target="surplus" />
+      <edge id="1587" source="do" target="whence" />
+      <edge id="1588" source="do" target="profits" />
+      <edge id="1589" source="poverty" target="mortification" />
+      <edge id="1590" source="poverty" target="flesh" />
+      <edge id="1591" source="poverty" target="luxury" />
+      <edge id="1592" source="poverty" target="whence" />
+      <edge id="1593" source="speed" target="frame" />
+      <edge id="1594" source="master" target="aristocracy" />
+      <edge id="1595" source="master" target="revenge" />
+      <edge id="1596" source="master" target="lampoons" />
+      <edge id="1597" source="master" target="prophecies" />
+      <edge id="1598" source="master" target="catastrophe" />
+      <edge id="1599" source="aristocracy" target="revenge" />
+      <edge id="1600" source="lampoons" target="prophecies" />
+      <edge id="1601" source="lampoons" target="catastrophe" />
+      <edge id="1602" source="prophecies" target="catastrophe" />
+      <edge id="1603" source="soldiers" target="privates" />
+      <edge id="1604" source="soldiers" target="army" />
+      <edge id="1605" source="soldiers" target="command" />
+      <edge id="1606" source="army" target="privates" />
+      <edge id="1607" source="army" target="command" />
+      <edge id="1608" source="army" target="officers" />
+      <edge id="1609" source="workpeople" target="locality" />
+      <edge id="1610" source="locality" target="shape" />
+      <edge id="1611" source="capitalist" target="directors" />
+      <edge id="1612" source="capitalist" target="accumulation" />
+      <edge id="1613" source="directors" target="accumulation" />
+      <edge id="1614" source="liberty" target="press" />
+      <edge id="1615" source="privates" target="officers" />
+      <edge id="1616" source="manufacturer" target="shopkeeper" />
+      <edge id="1617" source="shopkeeper" target="landlord" />
+      <edge id="1618" source="shopkeeper" target="pawnbroker" />
+      <edge id="1619" source="shopkeeper" target="strata" />
+      <edge id="1620" source="results" target="line" />
+      <edge id="1621" source="results" target="incapacity" />
+      <edge id="1622" source="women" target="fall" />
+      <edge id="1623" source="women" target="community" />
+      <edge id="1624" source="women" target="conclusion" />
+      <edge id="1625" source="women" target="indignation" />
+      <edge id="1626" source="fall" target="victory" />
+      <edge id="1627" source="fall" target="therefore" />
+      <edge id="1628" source="fall" target="produces" />
+      <edge id="1629" source="fall" target="diggers" />
+      <edge id="1630" source="fall" target="conclusion" />
+      <edge id="1631" source="community" target="rest" />
+      <edge id="1632" source="validity" target="age" />
+      <edge id="1633" source="validity" target="sooner" />
+      <edge id="1634" source="sooner" target="age" />
+      <edge id="1635" source="thousand" target="lieutenants" />
+      <edge id="1636" source="age" target="sex" />
+      <edge id="1637" source="laborer" target="wage-laborer" />
+      <edge id="1638" source="laborer" target="appropriates" />
+      <edge id="1639" source="wages" target="rate" />
+      <edge id="1640" source="wages" target="profits" />
+      <edge id="1641" source="rate" target="provision" />
+      <edge id="1642" source="profits" target="whence" />
+      <edge id="1643" source="profits" target="come" />
+      <edge id="1644" source="portions" target="account" />
+      <edge id="1645" source="portions" target="individuals" />
+      <edge id="1646" source="portions" target="squirearchy" />
+      <edge id="1647" source="portions" target="stewards" />
+      <edge id="1648" source="account" target="sugar" />
+      <edge id="1649" source="account" target="squirearchy" />
+      <edge id="1650" source="account" target="estates" />
+      <edge id="1651" source="account" target="stewards" />
+      <edge id="1652" source="account" target="beet-root" />
+      <edge id="1653" source="account" target="manufacturers" />
+      <edge id="1654" source="individuals" target="estates" />
+      <edge id="1655" source="squirearchy" target="recognition" />
+      <edge id="1656" source="squirearchy" target="stewards" />
+      <edge id="1657" source="stewards" target="manufacturers" />
+      <edge id="1658" source="landlord" target="strata" />
+      <edge id="1659" source="pawnbroker" target="stratum" />
+      <edge id="1660" source="stratum" target="non-existence" />
+      <edge id="1661" source="scale" target="rests" />
+      <edge id="1662" source="skill" target="worthless" />
+      <edge id="1663" source="skill" target="methods" />
+      <edge id="1664" source="worthless" target="methods" />
+      <edge id="1665" source="birth" target="nationality" />
+      <edge id="1666" source="provision" target="order" />
+      <edge id="1667" source="provision" target="beforehand" />
+      <edge id="1668" source="provision" target="revolts" />
+      <edge id="1669" source="provision" target="riots" />
+      <edge id="1670" source="revolts" target="order" />
+      <edge id="1671" source="revolts" target="associations" />
+      <edge id="1672" source="revolts" target="beforehand" />
+      <edge id="1673" source="riots" target="beforehand" />
+      <edge id="1674" source="force" target="endeavor" />
+      <edge id="1675" source="order" target="associations" />
+      <edge id="1676" source="order" target="swedish" />
+      <edge id="1677" source="order" target="amount" />
+      <edge id="1678" source="associations" target="beforehand" />
+      <edge id="1679" source="swedish" target="polish" />
+      <edge id="1680" source="swedish" target="note." />
+      <edge id="1681" source="swedish" target="amount" />
+      <edge id="1682" source="swedish" target="supplies" />
+      <edge id="1683" source="amount" target="finnish" />
+      <edge id="1684" source="amount" target="note." />
+      <edge id="1685" source="ends" target="excitement" />
+      <edge id="1686" source="excitement" target="baboeuf" />
+      <edge id="1687" source="victory" target="produces" />
+      <edge id="1688" source="victory" target="grave" />
+      <edge id="1689" source="produces" target="therefore" />
+      <edge id="1690" source="produces" target="grave" />
+      <edge id="1691" source="produces" target="diggers" />
+      <edge id="1692" source="grave" target="therefore" />
+      <edge id="1693" source="grave" target="diggers" />
+      <edge id="1694" source="equality" target="conscience" />
+      <edge id="1695" source="equality" target="legislation" />
+      <edge id="1696" source="ten-hours" target="advantage" />
+      <edge id="1697" source="advantage" target="march" />
+      <edge id="1698" source="march" target="core" />
+      <edge id="1699" source="process" target="_literati_" />
+      <edge id="1700" source="process" target="works" />
+      <edge id="1701" source="_literati_" target="manuscripts" />
+      <edge id="1702" source="_literati_" target="heathendom" />
+      <edge id="1703" source="works" target="monks" />
+      <edge id="1704" source="works" target="lives" />
+      <edge id="1705" source="works" target="manuscripts" />
+      <edge id="1706" source="works" target="heathendom" />
+      <edge id="1707" source="care" target="menace" />
+      <edge id="1708" source="standpoint" target="examination" />
+      <edge id="1709" source="standpoint" target="intuition" />
+      <edge id="1710" source="examination" target="cudgels" />
+      <edge id="1711" source="intuition" target="cudgels" />
+      <edge id="1712" source="children" target="crime" />
+      <edge id="1713" source="expression" target="objection" />
+      <edge id="1714" source="expression" target="objections" />
+      <edge id="1715" source="expression" target="figure" />
+      <edge id="1716" source="expression" target="speech" />
+      <edge id="1717" source="chorus" target="instrument" />
+      <edge id="1718" source="trace" target="upon" />
+      <edge id="1719" source="trace" target="slave" />
+      <edge id="1720" source="trace" target="outgrowth" />
+      <edge id="1721" source="trace" target="jurisprudence" />
+      <edge id="1722" source="trace" target="besides" />
+      <edge id="1723" source="upon" target="slave" />
+      <edge id="1724" source="upon" target="outgrowth" />
+      <edge id="1725" source="upon" target="jurisprudence" />
+      <edge id="1726" source="upon" target="besides" />
+      <edge id="1727" source="slave" target="outgrowth" />
+      <edge id="1728" source="slave" target="jurisprudence" />
+      <edge id="1729" source="slave" target="unfurls" />
+      <edge id="1730" source="outgrowth" target="jurisprudence" />
+      <edge id="1731" source="outgrowth" target="besides" />
+      <edge id="1732" source="jurisprudence" target="besides" />
+      <edge id="1733" source="preceding" target="suspicion" />
+      <edge id="1734" source="insurances" target="nothing" />
+      <edge id="1735" source="nothing" target="rest" />
+      <edge id="1736" source="nothing" target="has" />
+      <edge id="1737" source="has" target="christianity" />
+      <edge id="1738" source="has" target="asceticism" />
+      <edge id="1739" source="has" target="tinge" />
+      <edge id="1740" source="has" target="marriages" />
+      <edge id="1741" source="has" target="levelling" />
+      <edge id="1742" source="majority" target="culture" />
+      <edge id="1743" source="majority" target="training" />
+      <edge id="1744" source="culture" target="disappearance" />
+      <edge id="1745" source="culture" target="training" />
+      <edge id="1746" source="petty" target="absolutism" />
+      <edge id="1747" source="augmentation" target="chiefly" />
+      <edge id="1748" source="therefore" target="diggers" />
+      <edge id="1749" source="wage-laborers" target="bank" />
+      <edge id="1750" source="bank" target="exist" />
+      <edge id="1751" source="labor-power" target="pre-history" />
+      <edge id="1752" source="races" target="communities" />
+      <edge id="1753" source="contrast" target="selling" />
+      <edge id="1754" source="contrast" target="traders" />
+      <edge id="1755" source="traders" target="selling" />
+      <edge id="1756" source="ursprung" target="privateigenthums" />
+      <edge id="1757" source="ursprung" target="und" />
+      <edge id="1758" source="familie" target="privateigenthums" />
+      <edge id="1759" source="familie" target="des" />
+      <edge id="1760" source="privateigenthums" target="und" />
+      <edge id="1761" source="und" target="des" />
+      <edge id="1762" source="head" target="sismondi" />
+      <edge id="1763" source="head" target="school" />
+      <edge id="1764" source="sismondi" target="acuteness" />
+      <edge id="1765" source="school" target="contradictions" />
+      <edge id="1766" source="others" target="reproduction" />
+      <edge id="1767" source="others" target="writings" />
+      <edge id="1768" source="others" target="baboeuf" />
+      <edge id="1769" source="writings" target="_beaux" />
+      <edge id="1770" source="line" target="incapacity" />
+      <edge id="1771" source="incapacity" target="heart" />
+      <edge id="1772" source="incapacity" target="effects" />
+      <edge id="1773" source="core" target="effects" />
+      <edge id="1774" source="pressure" target="pamphlets" />
+      <edge id="1775" source="abolition" target="proposal" />
+      <edge id="1776" source="lamentation" target="half" />
+      <edge id="1777" source="lamentation" target="echo" />
+      <edge id="1778" source="lamentation" target="writers" />
+      <edge id="1779" source="half" target="lampoon" />
+      <edge id="1780" source="half" target="echo" />
+      <edge id="1781" source="echo" target="menace" />
+      <edge id="1782" source="echo" target="writers" />
+      <edge id="1783" source="consequent" target="menace" />
+      <edge id="1784" source="menace" target="writers" />
+      <edge id="1785" source="objection" target="objections" />
+      <edge id="1786" source="figure" target="benefit" />
+      <edge id="1787" source="hard-won" target="come" />
+      <edge id="1788" source="come" target="contents." />
+      <edge id="1789" source="quantum" target="sides" />
+      <edge id="1790" source="prostitution" target="understanding" />
+      <edge id="1791" source="individuality" target="confess" />
+      <edge id="1792" source="individuality" target="owner" />
+      <edge id="1793" source="confess" target="rent" />
+      <edge id="1794" source="confess" target="owner" />
+      <edge id="1795" source="confess" target="hostility" />
+      <edge id="1796" source="selling" target="buying" />
+      <edge id="1797" source="selling" target="disappears" />
+      <edge id="1798" source="selling" target="talk" />
+      <edge id="1799" source="selling" target="meaning" />
+      <edge id="1800" source="buying" target="disappears" />
+      <edge id="1801" source="buying" target="talk" />
+      <edge id="1802" source="buying" target="meaning" />
+      <edge id="1803" source="laziness" target="sheer" />
+      <edge id="1804" source="laziness" target="idleness" />
+      <edge id="1805" source="sheer" target="idleness" />
+      <edge id="1806" source="idleness" target="dogs" />
+      <edge id="1807" source="idleness" target="rots" />
+      <edge id="1808" source="rots" target="contents." />
+      <edge id="1809" source="disappearance" target="notions" />
+      <edge id="1810" source="disappearance" target="superintendence" />
+      <edge id="1811" source="notions" target="_regime_" />
+      <edge id="1812" source="disappear" target="concentration" />
+      <edge id="1813" source="schools" target="influence" />
+      <edge id="1814" source="influence" target="clap-trap" />
+      <edge id="1815" source="daughters" target="marriage" />
+      <edge id="1816" source="marriage" target="bounds" />
+      <edge id="1817" source="bounds" target="realm" />
+      <edge id="1818" source="reality" target="realm" />
+      <edge id="1819" source="reality" target="phantasy" />
+      <edge id="1820" source="reality" target="task" />
+      <edge id="1821" source="realm" target="task" />
+      <edge id="1822" source="thereto" target="object" />
+      <edge id="1823" source="united" target="democracy" />
+      <edge id="1824" source="consciousness" target="rupture" />
+      <edge id="1825" source="changes" target="wonder" />
+      <edge id="1826" source="hindquarters" target="arms" />
+      <edge id="1827" source="throes" target="christianity" />
+      <edge id="1828" source="throes" target="marriages" />
+      <edge id="1829" source="christianity" target="religions" />
+      <edge id="1830" source="christianity" target="asceticism" />
+      <edge id="1831" source="christianity" target="tinge" />
+      <edge id="1832" source="marriages" target="religions" />
+      <edge id="1833" source="marriages" target="tinge" />
+      <edge id="1834" source="asceticism" target="tinge" />
+      <edge id="1835" source="tinge" target="levelling" />
+      <edge id="1836" source="press" target="louis" />
+      <edge id="1837" source="press" target="blanc" />
+      <edge id="1838" source="press" target="reforme" />
+      <edge id="1839" source="conscience" target="legislation" />
+      <edge id="1840" source="knowledge" target="cries" />
+      <edge id="1841" source="phrases" target="falutin" />
+      <edge id="1842" source="phrases" target="apples" />
+      <edge id="1843" source="phrases" target="tree" />
+      <edge id="1844" source="phrases" target="back" />
+      <edge id="1845" source="truths" target="etc." />
+      <edge id="1846" source="truths" target="sorry" />
+      <edge id="1847" source="truths" target="skin" />
+      <edge id="1848" source="etc." target="justice" />
+      <edge id="1849" source="sorry" target="bone" />
+      <edge id="1850" source="skin" target="bone" />
+      <edge id="1851" source="skin" target="goods" />
+      <edge id="1852" source="skin" target="public" />
+      <edge id="1853" source="distillers" target="potato" />
+      <edge id="1854" source="distillers" target="beet-root" />
+      <edge id="1855" source="town" target="preference" />
+      <edge id="1856" source="sweeps" target="experiments" />
+      <edge id="1857" source="reactionary" target="socialism_" />
+      <edge id="1858" source="socialism_" target="fit" />
+      <edge id="1859" source="socialism_" target="blues" />
+      <edge id="1860" source="socialism_" target="_german" />
+      <edge id="1861" source="fit" target="blues" />
+      <edge id="1862" source="fit" target="_c_" />
+      <edge id="1863" source="fit" target="_german" />
+      <edge id="1864" source="blues" target="_c_" />
+      <edge id="1865" source="blues" target="_german" />
+      <edge id="1866" source="_german" target="_c_" />
+      <edge id="1867" source="reform" target="upstart" />
+      <edge id="1868" source="reform" target="benefit" />
+      <edge id="1869" source="reform" target="chicago" />
+      <edge id="1870" source="pamphlets" target="seventeenth" />
+      <edge id="1871" source="restoration" target="chartists" />
+      <edge id="1872" source="heart" target="effects" />
+      <edge id="1873" source="effects" target="facts" />
+      <edge id="1874" source="offspring" target="bourgeosie" />
+      <edge id="1875" source="falutin" target="tree" />
+      <edge id="1876" source="apples" target="truth" />
+      <edge id="1877" source="truth" target="love" />
+      <edge id="1878" source="truth" target="traffic" />
+      <edge id="1879" source="truth" target="wool" />
+      <edge id="1880" source="truth" target="one-sidedness" />
+      <edge id="1881" source="love" target="honor" />
+      <edge id="1882" source="love" target="traffic" />
+      <edge id="1883" source="love" target="wool" />
+      <edge id="1884" source="traffic" target="honor" />
+      <edge id="1885" source="traffic" target="wool" />
+      <edge id="1886" source="traffic" target="potato" />
+      <edge id="1887" source="wool" target="honor" />
+      <edge id="1888" source="one-sidedness" target="requirements" />
+      <edge id="1889" source="honor" target="sugar" />
+      <edge id="1890" source="sugar" target="potato" />
+      <edge id="1891" source="sugar" target="beet-root" />
+      <edge id="1892" source="sugar" target="manufacturers" />
+      <edge id="1893" source="sugar" target="spirits" />
+      <edge id="1894" source="potato" target="beet-root" />
+      <edge id="1895" source="potato" target="manufacturers" />
+      <edge id="1896" source="potato" target="spirits" />
+      <edge id="1897" source="beet-root" target="estates" />
+      <edge id="1898" source="manufacturers" target="spirits" />
+      <edge id="1899" source="mortification" target="flesh" />
+      <edge id="1900" source="flesh" target="church" />
+      <edge id="1901" source="prevention" target="societies" />
+      <edge id="1902" source="prevention" target="cruelty" />
+      <edge id="1903" source="prevention" target="temperance" />
+      <edge id="1904" source="organizers" target="societies" />
+      <edge id="1905" source="economists" target="belong" />
+      <edge id="1906" source="economists" target="humanitarians" />
+      <edge id="1907" source="economists" target="improvers" />
+      <edge id="1908" source="belong" target="publications" />
+      <edge id="1909" source="belong" target="humanitarians" />
+      <edge id="1910" source="belong" target="improvers" />
+      <edge id="1911" source="humanitarians" target="improvers" />
+      <edge id="1912" source="misery" target="inequalities" />
+      <edge id="1913" source="aspect" target="proposals" />
+      <edge id="1914" source="human" target="simple" />
+      <edge id="1915" source="manuscripts" target="monks" />
+      <edge id="1916" source="manuscripts" target="saints" />
+      <edge id="1917" source="manuscripts" target="heathendom" />
+      <edge id="1918" source="heathendom" target="lives" />
+      <edge id="1919" source="heathendom" target="saints" />
+      <edge id="1920" source="harmony" target="proclamation" />
+      <edge id="1921" source="language" target="lives" />
+      <edge id="1922" source="language" target="saints" />
+      <edge id="1923" source="lives" target="monks" />
+      <edge id="1924" source="lives" target="saints" />
+      <edge id="1925" source="profane" target="original" />
+      <edge id="1926" source="profane" target="instance" />
+      <edge id="1927" source="original" target="instance" />
+      <edge id="1928" source="louis" target="reforme" />
+      <edge id="1929" source="everything" target="lucien" />
+      <edge id="1930" source="officials" target="scarecrow" />
+      <edge id="1931" source="officials" target="finish" />
+      <edge id="1932" source="scarecrow" target="floggings" />
+      <edge id="1933" source="finish" target="floggings" />
+      <edge id="1934" source="birds" target="robe" />
+      <edge id="1935" source="birds" target="cobwebs" />
+      <edge id="1936" source="robe" target="stone" />
+      <edge id="1937" source="robe" target="cobwebs" />
+      <edge id="1938" source="robe" target="flowers" />
+      <edge id="1939" source="robe" target="rhetoric" />
+      <edge id="1940" source="robe" target="dew" />
+      <edge id="1941" source="cobwebs" target="flowers" />
+      <edge id="1942" source="cobwebs" target="dew" />
+      <edge id="1943" source="cobwebs" target="sentiment" />
+      <edge id="1944" source="stone" target="flowers" />
+      <edge id="1945" source="stone" target="rhetoric" />
+      <edge id="1946" source="flowers" target="rhetoric" />
+      <edge id="1947" source="flowers" target="dew" />
+      <edge id="1948" source="flowers" target="sentiment" />
+      <edge id="1949" source="rhetoric" target="dew" />
+      <edge id="1950" source="rhetoric" target="sentiment" />
+      <edge id="1951" source="dew" target="sentiment" />
+      <edge id="1952" source="bone" target="goods" />
+      <edge id="1953" source="bone" target="public" />
+      <edge id="1954" source="goods" target="public" />
+      <edge id="1955" source="supreme" target="class-struggles" />
+      <edge id="1956" source="supreme" target="exceptions" />
+      <edge id="1957" source="class-struggles" target="exceptions" />
+      <edge id="1958" source="circulate" target="foul" />
+      <edge id="1959" source="foul" target="or" />
+      <edge id="1960" source="societies" target="cruelty" />
+      <edge id="1961" source="societies" target="animals" />
+      <edge id="1962" source="societies" target="temperance" />
+      <edge id="1963" source="cruelty" target="animals" />
+      <edge id="1964" source="animals" target="temperance" />
+      <edge id="1965" source="animals" target="corner" />
+      <edge id="1966" source="temperance" target="corner" />
+      <edge id="1967" source="conception" target="yearnings" />
+      <edge id="1968" source="duties" target="prison" />
+      <edge id="1969" source="strike" target="leon" />
+      <edge id="1970" source="correspond" target="reconstruction" />
+      <edge id="1971" source="estates" target="instant" />
+      <edge id="1972" source="editions" target="charles" />
+      <edge id="1973" source="eve" target="prelude" />
+      <edge id="1974" source="leon" target="what" />
+      <edge id="1975" source="what" target="lesson" />
+      <edge id="1976" source="gets" target="levi" />
+      <edge id="1977" source="levi" target="how" />
+      <edge id="1978" source="levi" target="morton" />
+      <edge id="1979" source="levi" target="got" />
+      <edge id="1980" source="how" target="morton" />
+      <edge id="1981" source="how" target="got" />
+      <edge id="1982" source="morton" target="got" />
+      <edge id="1983" source="finnish" target="note." />
+      <edge id="1984" source="note." target="supplies" />
+      <edge id="1985" source="epitome" target="beginner" />
+      <edge id="1986" source="attaches" target="strikes" />
+    </edges>
+  </graph>
+</gexf>

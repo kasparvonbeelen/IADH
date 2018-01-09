@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>20/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="ross" label="ross" />
+      <node id="messenger" label="messenger" />
+      <node id="thirdapparition" label="thirdapparition" />
+      <node id="soldiers" label="soldiers" />
+      <node id="son" label="son" />
+      <node id="all" label="all" />
+      <node id="macduff" label="macduff" />
+      <node id="donalbain" label="donalbain" />
+      <node id="ladymacbeth" label="ladymacbeth" />
+      <node id="secondmurderer" label="secondmurderer" />
+      <node id="thirdwitch" label="thirdwitch" />
+      <node id="porter" label="porter" />
+      <node id="ladymacduff" label="ladymacduff" />
+      <node id="youngsiward" label="youngsiward" />
+      <node id="oldman" label="oldman" />
+      <node id="lennox" label="lennox" />
+      <node id="banquo" label="banquo" />
+      <node id="duncan" label="duncan" />
+      <node id="macbeth" label="macbeth" />
+      <node id="caithness" label="caithness" />
+      <node id="secondapparition" label="secondapparition" />
+      <node id="siward" label="siward" />
+      <node id="doctor" label="doctor" />
+      <node id="bothmurderers" label="bothmurderers" />
+      <node id="sergeant" label="sergeant" />
+      <node id="malcolm" label="malcolm" />
+      <node id="angus" label="angus" />
+      <node id="lords" label="lords" />
+      <node id="seyton" label="seyton" />
+      <node id="attendant" label="attendant" />
+      <node id="gentlewoman" label="gentlewoman" />
+      <node id="firstapparition" label="firstapparition" />
+      <node id="thirdmurderer" label="thirdmurderer" />
+      <node id="hecate" label="hecate" />
+      <node id="servant" label="servant" />
+      <node id="firstwitch" label="firstwitch" />
+      <node id="fleance" label="fleance" />
+      <node id="lord" label="lord" />
+      <node id="firstmurderer" label="firstmurderer" />
+      <node id="menteith" label="menteith" />
+      <node id="secondwitch" label="secondwitch" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ross" target="macbeth" />
+      <edge id="1" source="ross" target="oldman" />
+      <edge id="2" source="ross" target="malcolm" />
+      <edge id="3" source="ross" target="lennox" />
+      <edge id="4" source="ross" target="macduff" />
+      <edge id="5" source="ross" target="ladymacduff" />
+      <edge id="6" source="ross" target="banquo" />
+      <edge id="7" source="ross" target="siward" />
+      <edge id="8" source="ross" target="angus" />
+      <edge id="9" source="ross" target="duncan" />
+      <edge id="10" source="messenger" target="ladymacduff" />
+      <edge id="11" source="messenger" target="macbeth" />
+      <edge id="12" source="messenger" target="ladymacbeth" />
+      <edge id="13" source="thirdapparition" target="all" />
+      <edge id="14" source="soldiers" target="malcolm" />
+      <edge id="15" source="son" target="firstmurderer" />
+      <edge id="16" source="son" target="ladymacduff" />
+      <edge id="17" source="all" target="macduff" />
+      <edge id="18" source="all" target="secondwitch" />
+      <edge id="19" source="all" target="firstwitch" />
+      <edge id="20" source="all" target="macbeth" />
+      <edge id="21" source="all" target="thirdwitch" />
+      <edge id="22" source="macduff" target="malcolm" />
+      <edge id="23" source="macduff" target="macbeth" />
+      <edge id="24" source="macduff" target="siward" />
+      <edge id="25" source="macduff" target="ladymacbeth" />
+      <edge id="26" source="macduff" target="porter" />
+      <edge id="27" source="macduff" target="ross" />
+      <edge id="28" source="macduff" target="lennox" />
+      <edge id="29" source="macduff" target="banquo" />
+      <edge id="30" source="donalbain" target="macbeth" />
+      <edge id="31" source="donalbain" target="malcolm" />
+      <edge id="32" source="ladymacbeth" target="ross" />
+      <edge id="33" source="ladymacbeth" target="lennox" />
+      <edge id="34" source="ladymacbeth" target="servant" />
+      <edge id="35" source="ladymacbeth" target="macduff" />
+      <edge id="36" source="ladymacbeth" target="macbeth" />
+      <edge id="37" source="ladymacbeth" target="gentlewoman" />
+      <edge id="38" source="ladymacbeth" target="doctor" />
+      <edge id="39" source="ladymacbeth" target="duncan" />
+      <edge id="40" source="ladymacbeth" target="messenger" />
+      <edge id="41" source="secondmurderer" target="thirdmurderer" />
+      <edge id="42" source="secondmurderer" target="banquo" />
+      <edge id="43" source="secondmurderer" target="macbeth" />
+      <edge id="44" source="thirdwitch" target="secondwitch" />
+      <edge id="45" source="thirdwitch" target="all" />
+      <edge id="46" source="thirdwitch" target="firstwitch" />
+      <edge id="47" source="porter" target="macduff" />
+      <edge id="48" source="porter" target="macbeth" />
+      <edge id="49" source="ladymacduff" target="messenger" />
+      <edge id="50" source="ladymacduff" target="firstmurderer" />
+      <edge id="51" source="ladymacduff" target="macbeth" />
+      <edge id="52" source="ladymacduff" target="ross" />
+      <edge id="53" source="ladymacduff" target="son" />
+      <edge id="54" source="youngsiward" target="macbeth" />
+      <edge id="55" source="oldman" target="ross" />
+      <edge id="56" source="oldman" target="malcolm" />
+      <edge id="57" source="lennox" target="ladymacbeth" />
+      <edge id="58" source="lennox" target="firstwitch" />
+      <edge id="59" source="lennox" target="macduff" />
+      <edge id="60" source="lennox" target="lord" />
+      <edge id="61" source="lennox" target="macbeth" />
+      <edge id="62" source="lennox" target="malcolm" />
+      <edge id="63" source="lennox" target="caithness" />
+      <edge id="64" source="banquo" target="thirdmurderer" />
+      <edge id="65" source="banquo" target="oldman" />
+      <edge id="66" source="banquo" target="malcolm" />
+      <edge id="67" source="banquo" target="ross" />
+      <edge id="68" source="banquo" target="thirdwitch" />
+      <edge id="69" source="banquo" target="duncan" />
+      <edge id="70" source="banquo" target="ladymacbeth" />
+      <edge id="71" source="banquo" target="macbeth" />
+      <edge id="72" source="banquo" target="firstmurderer" />
+      <edge id="73" source="banquo" target="fleance" />
+      <edge id="74" source="duncan" target="malcolm" />
+      <edge id="75" source="duncan" target="sergeant" />
+      <edge id="76" source="duncan" target="ladymacbeth" />
+      <edge id="77" source="duncan" target="ross" />
+      <edge id="78" source="duncan" target="macbeth" />
+      <edge id="79" source="duncan" target="all" />
+      <edge id="80" source="duncan" target="banquo" />
+      <edge id="81" source="macbeth" target="attendant" />
+      <edge id="82" source="macbeth" target="messenger" />
+      <edge id="83" source="macbeth" target="firstwitch" />
+      <edge id="84" source="macbeth" target="servant" />
+      <edge id="85" source="macbeth" target="lennox" />
+      <edge id="86" source="macbeth" target="bothmurderers" />
+      <edge id="87" source="macbeth" target="all" />
+      <edge id="88" source="macbeth" target="firstmurderer" />
+      <edge id="89" source="macbeth" target="ladymacbeth" />
+      <edge id="90" source="macbeth" target="youngsiward" />
+      <edge id="91" source="macbeth" target="ross" />
+      <edge id="92" source="macbeth" target="thirdapparition" />
+      <edge id="93" source="macbeth" target="secondwitch" />
+      <edge id="94" source="macbeth" target="seyton" />
+      <edge id="95" source="macbeth" target="firstapparition" />
+      <edge id="96" source="macbeth" target="duncan" />
+      <edge id="97" source="macbeth" target="angus" />
+      <edge id="98" source="macbeth" target="secondapparition" />
+      <edge id="99" source="macbeth" target="doctor" />
+      <edge id="100" source="macbeth" target="banquo" />
+      <edge id="101" source="macbeth" target="macduff" />
+      <edge id="102" source="macbeth" target="donalbain" />
+      <edge id="103" source="macbeth" target="lords" />
+      <edge id="104" source="macbeth" target="siward" />
+      <edge id="105" source="caithness" target="menteith" />
+      <edge id="106" source="caithness" target="angus" />
+      <edge id="107" source="secondapparition" target="macbeth" />
+      <edge id="108" source="secondapparition" target="firstwitch" />
+      <edge id="109" source="siward" target="ross" />
+      <edge id="110" source="siward" target="malcolm" />
+      <edge id="111" source="siward" target="menteith" />
+      <edge id="112" source="siward" target="soldiers" />
+      <edge id="113" source="siward" target="macduff" />
+      <edge id="114" source="doctor" target="gentlewoman" />
+      <edge id="115" source="doctor" target="macbeth" />
+      <edge id="116" source="doctor" target="malcolm" />
+      <edge id="117" source="doctor" target="ladymacbeth" />
+      <edge id="118" source="bothmurderers" target="macbeth" />
+      <edge id="119" source="sergeant" target="duncan" />
+      <edge id="120" source="sergeant" target="malcolm" />
+      <edge id="121" source="malcolm" target="doctor" />
+      <edge id="122" source="malcolm" target="ross" />
+      <edge id="123" source="malcolm" target="menteith" />
+      <edge id="124" source="malcolm" target="macduff" />
+      <edge id="125" source="malcolm" target="donalbain" />
+      <edge id="126" source="malcolm" target="duncan" />
+      <edge id="127" source="malcolm" target="son" />
+      <edge id="128" source="malcolm" target="macbeth" />
+      <edge id="129" source="malcolm" target="siward" />
+      <edge id="130" source="malcolm" target="all" />
+      <edge id="131" source="angus" target="ross" />
+      <edge id="132" source="angus" target="macbeth" />
+      <edge id="133" source="angus" target="caithness" />
+      <edge id="134" source="angus" target="menteith" />
+      <edge id="135" source="lords" target="macbeth" />
+      <edge id="136" source="seyton" target="macbeth" />
+      <edge id="137" source="attendant" target="macbeth" />
+      <edge id="138" source="gentlewoman" target="doctor" />
+      <edge id="139" source="firstapparition" target="firstwitch" />
+      <edge id="140" source="thirdmurderer" target="banquo" />
+      <edge id="141" source="thirdmurderer" target="firstmurderer" />
+      <edge id="142" source="thirdmurderer" target="secondmurderer" />
+      <edge id="143" source="hecate" target="secondwitch" />
+      <edge id="144" source="hecate" target="firstwitch" />
+      <edge id="145" source="servant" target="ladymacbeth" />
+      <edge id="146" source="servant" target="macbeth" />
+      <edge id="147" source="firstwitch" target="secondwitch" />
+      <edge id="148" source="firstwitch" target="hecate" />
+      <edge id="149" source="firstwitch" target="thirdwitch" />
+      <edge id="150" source="firstwitch" target="duncan" />
+      <edge id="151" source="firstwitch" target="banquo" />
+      <edge id="152" source="firstwitch" target="macbeth" />
+      <edge id="153" source="firstwitch" target="lord" />
+      <edge id="154" source="fleance" target="banquo" />
+      <edge id="155" source="lord" target="lennox" />
+      <edge id="156" source="firstmurderer" target="ladymacduff" />
+      <edge id="157" source="firstmurderer" target="banquo" />
+      <edge id="158" source="firstmurderer" target="thirdmurderer" />
+      <edge id="159" source="firstmurderer" target="macbeth" />
+      <edge id="160" source="firstmurderer" target="secondmurderer" />
+      <edge id="161" source="firstmurderer" target="son" />
+      <edge id="162" source="menteith" target="gentlewoman" />
+      <edge id="163" source="menteith" target="lennox" />
+      <edge id="164" source="menteith" target="malcolm" />
+      <edge id="165" source="menteith" target="angus" />
+      <edge id="166" source="menteith" target="siward" />
+      <edge id="167" source="secondwitch" target="all" />
+      <edge id="168" source="secondwitch" target="hecate" />
+      <edge id="169" source="secondwitch" target="firstwitch" />
+    </edges>
+  </graph>
+</gexf>
